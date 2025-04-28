@@ -6,6 +6,8 @@ Ten katalog zawiera materiały dodatkowe do lekcji z drugiego tygodnia kursu SEO
 
 ## Lekcja: Automatyczny prompt engineering
 
+**Notatnik Google Colab:** [Otwórz Notatnik Automatyczny Prompt Engineering](https://colab.research.google.com/drive/1HCzAn1J5PgPPU9DtbcpwDUPDwY9sSwiM?usp=sharing)
+
 Tutaj znajdują się zestawy danych (datasety) wykorzystywane w tej lekcji.
 
 ### Dostępne Zestawy Danych

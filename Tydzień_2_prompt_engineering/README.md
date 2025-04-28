@@ -1,8 +1,12 @@
-# Materiały do lekcji "Automatyczny prompt engineering"
+# Materiały do Tygodnia 2
 
-Ten katalog zawiera zestawy danych (datasety) wykorzystywane w lekcji dotyczącej automatycznego generowania promptów (Automatyczny prompt engineering).
+Ten katalog zawiera materiały dodatkowe do lekcji z drugiego tygodnia kursu SEO 3.0.
 
-## Dostępne Zestawy Danych
+## Lekcja: Automatyczny prompt engineering
+
+Tutaj znajdują się zestawy danych (datasety) wykorzystywane w tej lekcji.
+
+### Dostępne Zestawy Danych
 
 *   **`processed_keywords.zip`**: Archiwum zip zawierające pliki JSON. Każdy plik reprezentuje jedno główne słowo kluczowe i listę powiązanych z nim fraz. Dane te są przeznaczone do ćwiczeń związanych z analizą i grupowaniem słów kluczowych.
 
@@ -81,4 +85,8 @@ Ten katalog zawiera zestawy danych (datasety) wykorzystywane w lekcji dotyczące
     }
     ```
 
-W przyszłości w tym katalogu mogą pojawić się inne zestawy danych związane z tą lekcją. 
+*W przyszłości w tej sekcji mogą pojawić się inne zestawy danych związane z tą lekcją.*
+
+---
+
+*W przyszłości w tym katalogu pojawią się sekcje dla innych lekcji z Tygodnia 2.* 

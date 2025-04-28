@@ -89,6 +89,15 @@ Tutaj znajdują się zestawy danych (datasety) wykorzystywane w tej lekcji.
 
 *W przyszłości w tej sekcji mogą pojawić się inne zestawy danych związane z tą lekcją.*
 
+### Notatniki Colab
+
+Poniższa tabela zawiera linki do notatników Google Colab używanych w tej lekcji.
+
+| Notatnik                                    | Opis                                                                                                                                                                 | Link                                                                                         |
+| :------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------- |
+| Automatyczny Prompt Engineering             | Notatnik demonstrujący technikę automatycznego generowania i testowania promptów systemowych GPT w celu znalezienia optymalnego promptu do tworzenia konspektów SEO. | [Otwórz w Colab](https://colab.research.google.com/drive/1HCzAn1J5PgPPU9DtbcpwDUPDwY9sSwiM?usp=sharing) |
+| *(Więcej notatników może pojawić się tutaj)* | *(Opis kolejnego notatnika)*                                                                                                                                          | *(Link do kolejnego notatnika)*                                                               |
+
 ---
 
 *W przyszłości w tym katalogu pojawią się sekcje dla innych lekcji z Tygodnia 2.* 

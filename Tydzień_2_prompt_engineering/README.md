@@ -2,6 +2,8 @@
 
 Ten katalog zawiera materiały dodatkowe do lekcji z drugiego tygodnia kursu SEO 3.0.
 
+**Uwaga:** Wszystkie datasety używane w kursie, w tym te z tego tygodnia, są również dostępne w centralnym katalogu [`../Datasety`](../Datasety).
+
 ## Lekcja: Automatyczny prompt engineering
 
 Tutaj znajdują się zestawy danych (datasety) wykorzystywane w tej lekcji.

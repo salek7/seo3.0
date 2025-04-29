@@ -6,6 +6,8 @@ Ten katalog zawiera materiały dodatkowe do lekcji z drugiego tygodnia kursu SEO
 
 ## Lekcja: Automatyczny prompt engineering
 
+Ta lekcja skupia się na technikach automatycznego generowania i testowania różnych promptów systemowych, aby znaleźć najbardziej efektywny prompt dla określonego zadania, np. tworzenia konspektów SEO.
+
 **Notatnik Google Colab:** [Otwórz Notatnik Automatyczny Prompt Engineering](https://colab.research.google.com/drive/1HCzAn1J5PgPPU9DtbcpwDUPDwY9sSwiM?usp=sharing)
 
 Tutaj znajdują się zestawy danych (datasety) wykorzystywane w tej lekcji.
@@ -102,6 +104,8 @@ Poniższa tabela zawiera linki do notatników Google Colab używanych w tej lekc
                                                 |
 
 ## Lekcja: Hakowanie instrukcji systemowych
+
+W tej lekcji omawiamy metody i prompty, które można wykorzystać do próby odkrycia ukrytych instrukcji systemowych, jakimi kieruje się model językowy (np. ChatGPT) podczas generowania odpowiedzi.
 
 Ten kod należy wkleić do ChatGPT lub innego miejsca gdzie chcemy poznać instrukcję systemową.
 

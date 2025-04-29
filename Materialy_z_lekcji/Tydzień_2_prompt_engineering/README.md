@@ -121,6 +121,20 @@ Dodatkowe zasoby:
     *   [elder-plinius/L1B3RT4S (ALIBABA.mkd)](https://github.com/elder-plinius/L1B3RT4S/blob/main/ALIBABA.mkd)
     *   [lucasmrdt/TheBigPromptLibrary](https://github.com/lucasmrdt/TheBigPromptLibrary/tree/main)
 
+## Lekcja: Różnice w tworzeniu promptów dla różnych typów modeli językowych
+
+W tej lekcji przyglądamy się, jak dostosować sposób tworzenia promptów w zależności od typu modelu językowego, z którym pracujemy. Różne kategorie modeli (np. standardowe jak GPT-4o, modele agentowe jak GPT-4.1, czy modele rozumujące) inaczej reagują na instrukcje i wymagają specyficznych technik promptowania oraz struktur promptów, aby uzyskać optymalne rezultaty. Omówimy unikalne techniki, rekomendowane struktury i typowe zastosowania dla każdej kategorii.
+
+### Materiały dodatkowe:
+
+*   Wskazówki OpenAI jak tworzyć prompty dla modelu GPT-4.1: [GPT-4.1 Prompting Guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)
+
 ---
 
-*W przyszłości w tym katalogu pojawią się sekcje dla innych lekcji z Tygodnia 2.* 
+*W przyszłości w tym katalogu pojawią się sekcje dla innych lekcji z Tygodnia 2.*
+
+# Źródła wiedzy
+
+W tej sekcji znajdziesz dodatkowe materiały i źródła, które mogą być pomocne w zgłębianiu tematów poruszanych w tym tygodniu.
+
+*   [Poradnik Google na temat prompt engineeringu](https://www.kaggle.com/whitepaper-prompt-engineering) 

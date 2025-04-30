@@ -14,7 +14,7 @@ Ten katalog gromadzi wszystkie zestawy danych (datasety) wykorzystywane w różn
 *   **`processed_keywords.zip`**
     *   **Opis:** Archiwum zip zawierające pliki JSON. Każdy plik reprezentuje jedno główne słowo kluczowe i listę powiązanych z nim fraz.
     *   **Lekcja:** Tydzień 3 - Automatyczny prompt engineering.
-    *   **Przeznaczenie:** Ćwiczenia związane z analizą i grupowaniem słów kluczowych.
+    *   **Przeznaczenie:** Automatyczne generowanie promptów do modeli językowych
     *   **Format danych (`.json` wewnątrz archiwum):**
         ```json
         {

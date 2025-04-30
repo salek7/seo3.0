@@ -32,11 +32,12 @@ W tej lekcji stawiamy pierwsze kroki w świecie prompt engineeringu. Poznajemy p
 
 ## Lekcja: Supabase
 
-W tej lekcji poznajemy Supabase - platformę do szybkiego tworzenia backendów dla aplikacji, oferującą bazę danych PostgreSQL, autentykację i przechowywanie plików. Uczymy się, jak importować dane z plików Excel do Supabase oraz jak wykorzystać tę platformę w projektach SEO do efektywnego zarządzania danymi.
+W tej lekcji poznajemy Supabase - platformę do szybkiego tworzenia backendów dla aplikacji, oferującą bazę danych PostgreSQL (w tym przechowywanie i wyszukiwarnie wektorowe), autentykację i przechowywanie plików. Uczymy się, jak importować dane z plików Excel do Supabase oraz jak wykorzystać tę platformę w projektach SEO do efektywnego zarządzania danymi.
 
 ### Materiały dodatkowe
 
 *   [Notatnik do importu danych z Excela do Supabase](https://colab.research.google.com/drive/1NE7AbjT3H81fcsu-uMpv-qXeduWKtPxA?authuser=0#scrollTo=ovOxY2nY5Zdt) - ten notatnik demonstruje proces importowania danych z arkuszy Excel do bazy danych Supabase
+*   [Konwersacja z Claude na temat Supabase](https://claude.ai/public/artifacts/cc8b12f9-6927-4998-a59c-c52614cb35dd) - przykładowa konwersacja z asystentem AI używana podczas lekcji
 
 ### Notatniki Colab
 

@@ -3,26 +3,52 @@ description:
 globs: 
 alwaysApply: true
 ---
-Kurs SEO 3.0 - Materiały Dodatkowe
-Witaj w repozytorium materiałów dodatkowych do kursu SEO 3.0 prowadzonego przez SensAI.
+# Wytyczne dla AI dotyczące Repozytorium Kursu SEO 3.0
 
-Struktura Repozytorium
-Repozytorium jest zorganizowane w następujące główne katalogi:
+Ten dokument określa zasady i najlepsze praktyki dla modelu językowego (AI), który pomaga w zarządzaniu i rozwijaniu repozytorium materiałów dodatkowych do kursu SEO 3.0.
 
-Materialy_z_lekcji/: Zawiera podkatalogi z materiałami dodatkowymi (notatniki, datasety, linki) dla poszczególnych lekcji, uporządkowane według tygodni (np. Tydzień_3_...).
+## 1. Zrozumienie Celu i Struktury Repozytorium
 
-W każdym katalogu tygodniowym znajdziesz pliki README.md opisujące zawartość i linkujące do odpowiednich materiałów (np. notatników Colab, plików danych).
-Datasety/: Centralny katalog gromadzący wszystkie zestawy danych (datasety) wykorzystywane w różnych lekcjach kursu.
+*   **Cel Główny:** Repozytorium służy jako centralne miejsce na materiały pomocnicze (notatniki Colab, datasety, prompty, linki, opisy narzędzi) dla uczestników kursu SEO 3.0. Utrzymuj wszystkie treści i komunikację w języku polskim.
+*   **Kluczowe Katalogi i Pliki:**
+    *   `Materialy_z_lekcji/`: Zawiera podkatalogi dla każdego tygodnia kursu (np. `Tydzień_X_nazwa`). Wewnątrz każdego tygodnia znajduje się `README.md` opisujący materiały lekcyjne.
+    *   `Datasety/`: Centralne repozytorium dla wszystkich zestawów danych. Posiada własny `README.md` z opisami.
+    *   `Prompty/`: Zbiór przykładowych promptów AI. Posiada własny `README.md` z opisami i przeznaczeniem promptów.
+    *   `Notatniki_Colab.md`: Główna lista wszystkich notatników Colab używanych w kursie.
+    *   `Narzędzia.md`: Główna lista narzędzi SEO, AI, programistycznych omawianych w kursie.
+    *   `README.md` (główny): Ogólny opis repozytorium.
 
-Plik README.md w tym katalogu zawiera opis poszczególnych datasetów, ich formatu oraz lekcji, do których się odnoszą.
-Prompty/: Zbiór przykładowych promptów (systemowych i użytkownika) omawianych lub wykorzystywanych podczas kursu.
+## 2. Zasady Rozwoju i Modyfikacji
 
-Plik README.md w tym katalogu zawiera tabelę z listą dostępnych promptów, ich opisem i powiązaniem z konkretnymi lekcjami.
-Notatniki_Colab.md: Zestawienie wszystkich notatników Google Colab używanych w kursie, uporządkowanych według tygodni i lekcji.
+*   **Spójność:** Zawsze utrzymuj istniejącą strukturę katalogów i konwencje nazewnictwa.
+*   **Dodawanie Materiałów Lekcyjnych:**
+    *   Umieszczaj nowe materiały w odpowiednim podkatalogu `Materialy_z_lekcji/Tydzień_X.../`.
+    *   Zawsze aktualizuj `README.md` w danym tygodniu, dodając opis i linki do nowych materiałów.
+*   **Dodawanie Zasobów Ogólnych:**
+    *   **Datasety:** Dodawaj do `Datasety/`, aktualizuj `Datasety/README.md` ORAZ linkuj z odpowiedniego `Materialy_z_lekcji/.../README.md`.
+    *   **Prompty:** Dodawaj do `Prompty/`, aktualizuj `Prompty/README.md` (z opisem, przeznaczeniem, modelem AI, powiązaną lekcją).
+    *   **Notatniki Colab:** Aktualizuj główny plik `Notatniki_Colab.md` ORAZ linkuj z odpowiedniego `Materialy_z_lekcji/.../README.md`.
+    *   **Narzędzia:** Aktualizuj główny plik `Narzędzia.md`.
+*   **Linki:** Weryfikuj poprawność linków (wewnętrznych - używaj ścieżek względnych, np. `../Datasety/plik.xlsx`; i zewnętrznych).
+*   **Centralizacja:** Dbaj o to, aby główne listy i katalogi (`Datasety/`, `Prompty/`, `Notatniki_Colab.md`, `Narzędzia.md`) były zawsze aktualne.
 
-Narzędzia.md: Kompletna lista narzędzi używanych lub omawianych w kursie SEO 3.0.
+## 3. Komunikacja z Użytkownikiem (Twórcą Kursu)
 
-Zawiera kategorie narzędzi (programistyczne, AI, SEO), szczegółowe opisy ich funkcjonalności i zastosowań w kontekście SEO.
-Każde narzędzie posiada bezpośredni link do oficjalnej strony.
-Lista jest regularnie aktualizowana w miarę przedstawiania nowych narzędzi podczas kursu.
-Zachęcamy do eksploracji poszczególnych katalogów w celu znalezienia potrzebnych materiałów.
+*   **Bądź Proaktywny:** Pytaj, jeśli czegoś nie rozumiesz lub potrzebujesz więcej informacji. Lepiej dopytać niż zgadywać.
+*   **Klaruj Cel:** Zanim zaczniesz pracę, upewnij się, że rozumiesz cel zadania. Pytaj o:
+    *   Przynależność materiału (Która lekcja/tydzień?).
+    *   Główny cel (Co uczestnik ma z tego wynieść?).
+    *   Powiązania z innymi zasobami.
+    *   Wymagane opisy w `README.md`.
+    *   Potrzebne linki.
+*   **Potwierdzaj Zrozumienie:** Podsumuj planowane kroki przed ich wykonaniem.
+*   **Sugeruj Kompleksowe Zmiany:** Jeśli zadanie wymaga modyfikacji w wielu miejscach, poinformuj o tym i zaproponuj wykonanie wszystkich koniecznych kroków.
+*   **Raportuj Wyniki:** Po zakończeniu pracy jasno opisz, co zostało zrobione i gdzie.
+*   **Język:** Używaj języka polskiego.
+
+## 4. Praca z Git
+
+*   **Status:** Zawsze sprawdzaj `git status` przed rozpoczęciem pracy.
+*   **Dodawanie:** Używaj `git add` dla wszystkich zmodyfikowanych/nowych plików objętych zadaniem.
+*   **Commit:** Twórz jasne, opisowe komunikaty commitów w języku polskim (np. `git commit -m "Dodanie notatnika Colab dla Tygodnia 3"`).
+*   **Push:** Wysyłaj zmiany na gałąź `main` (`git push origin main`), chyba że użytkownik wskaże inaczej.

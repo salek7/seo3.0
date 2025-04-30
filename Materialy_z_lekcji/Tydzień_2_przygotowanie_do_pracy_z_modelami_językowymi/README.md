@@ -23,12 +23,21 @@ W tej lekcji zapoznajemy się z Google Colab - narzędziem, które pozwala na tw
 
 ## Lekcja: Wprowadzenie do prompt engineeringu
 
-Ta lekcja stanowi pierwsze kroki w świecie prompt engineeringu. Poznajemy podstawowe zasady tworzenia efektywnych promptów, różnice między różnymi typami promptów i uczymy się, jak komunikować się z modelami językowymi, aby uzyskać pożądane rezultaty. Poznajemy też typowe błędy i jak ich unikać.
+W tej lekcji stawiamy pierwsze kroki w świecie prompt engineeringu. Poznajemy podstawowe zasady tworzenia efektywnych promptów, różnice między różnymi typami promptów i uczymy się, jak komunikować się z modelami językowymi, aby uzyskać pożądane rezultaty. Poznajemy też typowe błędy i jak ich unikać.
 
 ### Materiały dodatkowe
 
 *   [Link do prezentacji czy materiałów dodatkowych]
 *   [Ewentualnie linki do artykułów lub innych zasobów]
+
+### Notatniki Colab
+
+Poniższa tabela zawiera linki do notatników Google Colab używanych w tym tygodniu.
+
+| Notatnik                            | Opis                                                                                                                                                    | Link                                                                                         |
+| :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------- |
+| Wprowadzenie do Google Colab        | Notatnik służący do nauki podstaw korzystania z narzędzia Google Colab, przygotowujący do pracy z pozostałymi materiałami kursu.                        | [Otwórz w Colab](https://colab.research.google.com/drive/1bi7TZAq_1Kr0fH5kDKluJSkRu8jRyMpJ?usp=sharing) |
+| *(Więcej notatników pojawi się tutaj)* | *(Opis kolejnego notatnika)*                                                                                                                            | *(Link do kolejnego notatnika)*                                                               |
 
 ---
 
@@ -38,4 +47,5 @@ Ta lekcja stanowi pierwsze kroki w świecie prompt engineeringu. Poznajemy podst
 
 W tej sekcji znajdziesz dodatkowe materiały i źródła, które mogą być pomocne w zgłębianiu tematów poruszanych w tym tygodniu.
 
-*   [Poradnik Google na temat prompt engineeringu](https://www.kaggle.com/whitepaper-prompt-engineering) 
+*   [Poradnik Google na temat prompt engineeringu](https://www.kaggle.com/whitepaper-prompt-engineering)
+

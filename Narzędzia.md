@@ -7,6 +7,7 @@ W tym pliku znajduje się zestawienie wszystkich narzędzi używanych lub omawia
 | Narzędzie | Kategoria | Opis | Link |
 | :-------- | :-------- | :--- | :--- |
 | Google Colab | Środowisko programistyczne | Bazujące na przeglądarce środowisko Jupyter Notebook umożliwiające pisanie i wykonywanie kodu Python w chmurze. Pozwala na łączenie kodu, tekstu objaśniającego, wykresów i innych elementów w interaktywne notatniki. Nie wymaga instalacji, oferuje darmowy dostęp do zasobów obliczeniowych (w tym GPU/TPU) i integruje się z Google Drive. Jest szczególnie przydatne do pracy z modelami AI, analizy danych i wizualizacji w kontekście SEO. | [Google Colab](https://colab.research.google.com/) |
+| Supabase | Baza danych / Backend-as-a-Service | Otwarte źródłowo alternatywa dla Firebase, oferująca bazę danych PostgreSQL, autentykację, funkcje w czasie rzeczywistym i przechowywanie plików. Umożliwia szybkie tworzenie backendów dla aplikacji webowych i mobilnych bez konieczności budowania własnej infrastruktury. W kontekście SEO i AI pomaga przechowywać i zarządzać dużymi zbiorami danych, wynikami analiz i zawartością stron. | [Supabase](https://supabase.com/) |
 
 ## Narzędzia AI i modele językowe
 

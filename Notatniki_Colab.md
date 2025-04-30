@@ -1,0 +1,19 @@
+# Notatniki Google Colab - SEO 3.0
+
+W tym pliku znajduje się zestawienie wszystkich notatników Google Colab używanych w kursie SEO 3.0, uporządkowanych według tygodni i lekcji.
+
+## Tydzień 2: Przygotowanie do pracy z modelami językowymi
+
+| Tydzień | Lekcja | Notatnik | Opis | Link |
+| :------ | :----- | :------- | :--- | :--- |
+| 2 | Google Colab - wprowadzenie do narzędzia | Wprowadzenie do Google Colab | Notatnik służący do nauki podstaw korzystania z narzędzia Google Colab, przygotowujący do pracy z pozostałymi materiałami kursu. | [Otwórz w Colab](https://colab.research.google.com/drive/1bi7TZAq_1Kr0fH5kDKluJSkRu8jRyMpJ?usp=sharing) |
+
+## Tydzień 3: Prompt Engineering
+
+| Tydzień | Lekcja | Notatnik | Opis | Link |
+| :------ | :----- | :------- | :--- | :--- |
+| 3 | Automatyczny prompt engineering | Automatyczny Prompt Engineering | Notatnik demonstrujący technikę automatycznego generowania i testowania promptów systemowych GPT w celu znalezienia optymalnego promptu do tworzenia konspektów SEO. | [Otwórz w Colab](https://colab.research.google.com/drive/1HCzAn1J5PgPPU9DtbcpwDUPDwY9sSwiM?usp=sharing) |
+
+---
+
+**Uwaga:** Ta lista będzie aktualizowana w miarę dodawania nowych materiałów do kursu. 

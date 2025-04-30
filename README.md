@@ -15,4 +15,6 @@ Repozytorium jest zorganizowane w następujące główne katalogi:
 *   **`Prompty/`**: Zbiór przykładowych promptów (systemowych i użytkownika) omawianych lub wykorzystywanych podczas kursu.
     *   Plik `README.md` w tym katalogu zawiera tabelę z listą dostępnych promptów, ich opisem i powiązaniem z konkretnymi lekcjami.
 
+*   **`Notatniki_Colab.md`**: Zestawienie wszystkich notatników Google Colab używanych w kursie, uporządkowanych według tygodni i lekcji.
+
 Zachęcamy do eksploracji poszczególnych katalogów w celu znalezienia potrzebnych materiałów. 

@@ -38,6 +38,9 @@ WHERE
     table_name = 'master_data';
 ```
 
+## Lekcja: Komunikacja z API modeli językowych
+
+
 ### Notatniki Colab
 
 Poniższa tabela zawiera linki do notatników Google Colab używanych w tym tygodniu.

@@ -30,6 +30,14 @@ W tej lekcji stawiamy pierwsze kroki w świecie prompt engineeringu. Poznajemy p
 *   [Link do prezentacji czy materiałów dodatkowych]
 *   [Ewentualnie linki do artykułów lub innych zasobów]
 
+## Lekcja: Supabase
+
+W tej lekcji poznajemy Supabase - platformę do szybkiego tworzenia backendów dla aplikacji, oferującą bazę danych PostgreSQL, autentykację i przechowywanie plików. Uczymy się, jak importować dane z plików Excel do Supabase oraz jak wykorzystać tę platformę w projektach SEO do efektywnego zarządzania danymi.
+
+### Materiały dodatkowe
+
+*   [Notatnik do importu danych z Excela do Supabase](https://colab.research.google.com/drive/1NE7AbjT3H81fcsu-uMpv-qXeduWKtPxA?authuser=0#scrollTo=ovOxY2nY5Zdt) - ten notatnik demonstruje proces importowania danych z arkuszy Excel do bazy danych Supabase
+
 ### Notatniki Colab
 
 Poniższa tabela zawiera linki do notatników Google Colab używanych w tym tygodniu.
@@ -37,6 +45,7 @@ Poniższa tabela zawiera linki do notatników Google Colab używanych w tym tygo
 | Notatnik                            | Opis                                                                                                                                                    | Link                                                                                         |
 | :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------- |
 | Wprowadzenie do Google Colab        | Notatnik służący do nauki podstaw korzystania z narzędzia Google Colab, przygotowujący do pracy z pozostałymi materiałami kursu.                        | [Otwórz w Colab](https://colab.research.google.com/drive/1bi7TZAq_1Kr0fH5kDKluJSkRu8jRyMpJ?usp=sharing) |
+| Import danych z Excela do Supabase | Notatnik demonstrujący proces importowania danych z arkuszy Excel do bazy danych Supabase. | [Otwórz w Colab](https://colab.research.google.com/drive/1NE7AbjT3H81fcsu-uMpv-qXeduWKtPxA?authuser=0#scrollTo=ovOxY2nY5Zdt) |
 | *(Więcej notatników pojawi się tutaj)* | *(Opis kolejnego notatnika)*                                                                                                                            | *(Link do kolejnego notatnika)*                                                               |
 
 ---

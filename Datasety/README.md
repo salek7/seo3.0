@@ -2,11 +2,18 @@
 
 Ten katalog gromadzi wszystkie zestawy danych (datasety) wykorzystywane w różnych lekcjach kursu SEO 3.0.
 
+## Tabela Datasetów
+
+| Nazwa pliku | Opis | Tydzień | Lekcja | Link |
+|:------------|:-----|:--------|:-------|:-----|
+| `processed_keywords.zip` | Archiwum zip zawierające pliki JSON z głównymi słowami kluczowymi i powiązanymi frazami | 3 | Automatyczny prompt engineering | [Pobierz](processed_keywords.zip) |
+| `analiza_widocznosci_senuto.com.xlsx` | Raport widoczności dla domeny senuto.com z aplikacji Senuto | 2 | Supabase | [Pobierz](analiza_widocznosci_senuto.com.xlsx) |
+
 ## Dostępne Datasety
 
 *   **`processed_keywords.zip`**
     *   **Opis:** Archiwum zip zawierające pliki JSON. Każdy plik reprezentuje jedno główne słowo kluczowe i listę powiązanych z nim fraz.
-    *   **Lekcja:** Tydzień 2 - Automatyczny prompt engineering.
+    *   **Lekcja:** Tydzień 3 - Automatyczny prompt engineering.
     *   **Przeznaczenie:** Ćwiczenia związane z analizą i grupowaniem słów kluczowych.
     *   **Format danych (`.json` wewnątrz archiwum):**
         ```json

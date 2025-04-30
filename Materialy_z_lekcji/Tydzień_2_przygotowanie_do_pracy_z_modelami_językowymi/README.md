@@ -4,14 +4,6 @@ Ten katalog zawiera materiały dodatkowe do lekcji z drugiego tygodnia kursu SEO
 
 **Uwaga:** Wszystkie datasety używane w kursie, w tym te z tego tygodnia, są również dostępne w centralnym katalogu [`../Datasety`](../Datasety).
 
-## Lekcja: Podstawy Sztucznej Inteligencji i Modeli Językowych
-
-W tej lekcji zapoznajemy się z fundamentalnymi pojęciami z dziedziny sztucznej inteligencji oraz modeli językowych. Omawiamy czym są Large Language Models (LLM), jak działają oraz jakie mają zastosowania w SEO. Wprowadzamy kluczowe terminy i koncepcje, które będą podstawą do dalszej nauki i efektywnej pracy z AI.
-
-### Materiały dodatkowe
-
-*   [Link do prezentacji czy materiałów dodatkowych]
-*   [Ewentualnie linki do artykułów lub innych zasobów]
 
 ## Lekcja: Google Colab - wprowadzenie do narzędzia
 
@@ -20,15 +12,6 @@ W tej lekcji zapoznajemy się z Google Colab - narzędziem, które pozwala na tw
 ### Materiały dodatkowe
 
 *   [Notatnik wprowadzający do Google Colab](https://colab.research.google.com/drive/1bi7TZAq_1Kr0fH5kDKluJSkRu8jRyMpJ?usp=sharing) - ten notatnik służy do nauki podstaw korzystania z narzędzia Google Colab
-
-## Lekcja: Wprowadzenie do prompt engineeringu
-
-W tej lekcji stawiamy pierwsze kroki w świecie prompt engineeringu. Poznajemy podstawowe zasady tworzenia efektywnych promptów, różnice między różnymi typami promptów i uczymy się, jak komunikować się z modelami językowymi, aby uzyskać pożądane rezultaty. Poznajemy też typowe błędy i jak ich unikać.
-
-### Materiały dodatkowe
-
-*   [Link do prezentacji czy materiałów dodatkowych]
-*   [Ewentualnie linki do artykułów lub innych zasobów]
 
 ## Lekcja: Supabase
 

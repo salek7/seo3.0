@@ -17,4 +17,6 @@ Repozytorium jest zorganizowane w następujące główne katalogi:
 
 *   **`Notatniki_Colab.md`**: Zestawienie wszystkich notatników Google Colab używanych w kursie, uporządkowanych według tygodni i lekcji.
 
+*   **`Narzędzia.md`**: Lista wszystkich narzędzi używanych lub omawianych w kursie, wraz z ich kategorią, opisem i linkami.
+
 Zachęcamy do eksploracji poszczególnych katalogów w celu znalezienia potrzebnych materiałów. 

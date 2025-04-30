@@ -1,6 +1,6 @@
-# Materiały do Tygodnia 2
+# Materiały do Tygodnia 3
 
-Ten katalog zawiera materiały dodatkowe do lekcji z drugiego tygodnia kursu SEO 3.0.
+Ten katalog zawiera materiały dodatkowe do lekcji z trzeciego tygodnia kursu SEO 3.0.
 
 **Uwaga:** Wszystkie datasety używane w kursie, w tym te z tego tygodnia, są również dostępne w centralnym katalogu [`../Datasety`](../Datasety).
 

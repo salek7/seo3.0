@@ -6,7 +6,7 @@ Witaj w repozytorium materiałów dodatkowych do kursu SEO 3.0 prowadzonego prze
 
 Repozytorium jest zorganizowane w następujące główne katalogi:
 
-*   **`Materialy_z_lekcji/`**: Zawiera materiały specyficzne dla poszczególnych tygodni i lekcji kursu. Wewnątrz znajdują się podkatalogi odpowiadające kolejnym tygodniom (np. `Tydzień_2_...`).
+*   **`Materialy_z_lekcji/`**: Zawiera podkatalogi z materiałami dodatkowymi (notatniki, datasety, linki) dla poszczególnych lekcji, uporządkowane według tygodni (np. `Tydzień_3_...`).
     *   W każdym katalogu tygodniowym znajdziesz pliki `README.md` opisujące zawartość i linkujące do odpowiednich materiałów (np. notatników Colab, plików danych).
 
 *   **`Datasety/`**: Centralny katalog gromadzący wszystkie zestawy danych (datasety) wykorzystywane w różnych lekcjach kursu.

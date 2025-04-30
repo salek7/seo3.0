@@ -17,6 +17,9 @@ Repozytorium jest zorganizowane w następujące główne katalogi:
 
 *   **`Notatniki_Colab.md`**: Zestawienie wszystkich notatników Google Colab używanych w kursie, uporządkowanych według tygodni i lekcji.
 
-*   **`Narzędzia.md`**: Lista wszystkich narzędzi używanych lub omawianych w kursie, wraz z ich kategorią, opisem i linkami.
+*   **`Narzędzia.md`**: Kompletna lista narzędzi używanych lub omawianych w kursie SEO 3.0.
+    *   Zawiera kategorie narzędzi (programistyczne, AI, SEO), szczegółowe opisy ich funkcjonalności i zastosowań w kontekście SEO.
+    *   Każde narzędzie posiada bezpośredni link do oficjalnej strony.
+    *   Lista jest regularnie aktualizowana w miarę przedstawiania nowych narzędzi podczas kursu.
 
 Zachęcamy do eksploracji poszczególnych katalogów w celu znalezienia potrzebnych materiałów. 

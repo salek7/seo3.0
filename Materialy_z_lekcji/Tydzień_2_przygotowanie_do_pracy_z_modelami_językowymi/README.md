@@ -13,6 +13,14 @@ W tej lekcji zapoznajemy się z fundamentalnymi pojęciami z dziedziny sztucznej
 *   [Link do prezentacji czy materiałów dodatkowych]
 *   [Ewentualnie linki do artykułów lub innych zasobów]
 
+## Lekcja: Google Colab - wprowadzenie do narzędzia
+
+W tej lekcji zapoznajemy się z Google Colab - narzędziem, które pozwala na tworzenie i udostępnianie notatników zawierających kod Python, tekst, wykresy i inne elementy. Pokazujemy, jak efektywnie korzystać z tego narzędzia podczas pracy z modelami językowymi i analizy danych dla potrzeb SEO.
+
+### Materiały dodatkowe
+
+*   [Notatnik wprowadzający do Google Colab](https://colab.research.google.com/drive/1bi7TZAq_1Kr0fH5kDKluJSkRu8jRyMpJ?usp=sharing) - ten notatnik służy do nauki podstaw korzystania z narzędzia Google Colab
+
 ## Lekcja: Wprowadzenie do prompt engineeringu
 
 Ta lekcja stanowi pierwsze kroki w świecie prompt engineeringu. Poznajemy podstawowe zasady tworzenia efektywnych promptów, różnice między różnymi typami promptów i uczymy się, jak komunikować się z modelami językowymi, aby uzyskać pożądane rezultaty. Poznajemy też typowe błędy i jak ich unikać.

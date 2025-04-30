@@ -35,6 +35,12 @@ Ten katalog gromadzi wszystkie zestawy danych (datasety) wykorzystywane w różn
         }
         ```
 
+*   **`analiza_widocznosci_senuto.com.xlsx`**
+    *   **Opis:** Raport widoczności dla domeny senuto.com wygenerowany w aplikacji Senuto.
+    *   **Lekcja:** Tydzień 2 - Supabase.
+    *   **Przeznaczenie:** Demonstracja importu danych z Excela do bazy danych Supabase i przykład struktury danych używanej w analizie SEO.
+    *   **Format danych:** Arkusz Excel zawierający dane o widoczności domeny w wynikach wyszukiwania Google, w tym informacje o słowach kluczowych, ich pozycjach, miesięcznym wolumenie wyszukiwań i innych metrykach SEO.
+
 ---
 
 *W przyszłości w tym katalogu będą dodawane kolejne datasety wraz z ich opisami.* 

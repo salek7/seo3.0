@@ -38,6 +38,7 @@ W tej lekcji poznajemy Supabase - platformę do szybkiego tworzenia backendów d
 
 *   [Notatnik do importu danych z Excela do Supabase](https://colab.research.google.com/drive/1NE7AbjT3H81fcsu-uMpv-qXeduWKtPxA?authuser=0#scrollTo=ovOxY2nY5Zdt) - ten notatnik demonstruje proces importowania danych z arkuszy Excel do bazy danych Supabase
 *   [Konwersacja z Claude na temat Supabase](https://claude.ai/public/artifacts/cc8b12f9-6927-4998-a59c-c52614cb35dd) - przykładowa konwersacja z asystentem AI używana podczas lekcji
+*   **Plik danych**: [`../Datasety/analiza_widocznosci_senuto.com.xlsx`](../Datasety/analiza_widocznosci_senuto.com.xlsx) - raport widoczności dla domeny senuto.com wygenerowany w aplikacji Senuto, używany podczas lekcji do demonstracji importu danych do Supabase
 *   Przykładowe zapytanie SQL do analizy struktury tabeli w Supabase - używane podczas lekcji do wygenerowania opisu tabeli, który następnie służy jako kontekst dla modeli językowych przy budowaniu zapytań:
 
 ```sql

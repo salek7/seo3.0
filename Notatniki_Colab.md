@@ -8,6 +8,7 @@ W tym pliku znajduje się zestawienie wszystkich notatników Google Colab używa
 | :------ | :----- | :------- | :--- | :--- |
 | 2 | Google Colab - wprowadzenie do narzędzia | Wprowadzenie do Google Colab | Notatnik służący do nauki podstaw korzystania z narzędzia Google Colab, przygotowujący do pracy z pozostałymi materiałami kursu. | [Otwórz w Colab](https://colab.research.google.com/drive/1bi7TZAq_1Kr0fH5kDKluJSkRu8jRyMpJ?usp=sharing) |
 | 2 | Supabase | Import danych z Excela do Supabase | Notatnik demonstrujący proces importowania danych z arkuszy Excel do bazy danych Supabase. | [Otwórz w Colab](https://colab.research.google.com/drive/1NE7AbjT3H81fcsu-uMpv-qXeduWKtPxA?authuser=0#scrollTo=ovOxY2nY5Zdt) |
+| 2 | Komunikacja z API modeli językowych | Interaktywny przewodnik po API | Praktyczny przewodnik po programowej komunikacji z API modeli językowych (np. OpenAI, Gemini) przy użyciu Pythona. | [Otwórz w Colab](https://colab.research.google.com/drive/1O8ueKXMOqn0S2yanBHD4XJrBmixVeRAL?usp=sharing) |
 
 ## Tydzień 3: Prompt Engineering
 

@@ -41,6 +41,17 @@ WHERE
 
 ## Lekcja: Komunikacja z API modeli językowych
 
+Ta lekcja pokazała, jak komunikować się programowo z API Modeli Językowych przy użyciu Pythona, obejmując podstawy HTTP, formatu JSON, bezpiecznego zarządzania kluczami API oraz praktyczne przykłady interakcji z usługami takimi jak OpenAI czy Google Gemini za pomocą ich bibliotek SDK. Poznaliśmy również kluczowe aspekty pracy z API, takie jak ograniczenia tokenów, oraz zaawansowane techniki, w tym Wywoływanie Funkcji, Ustrukturyzowane Odpowiedzi, narzędzia hostowane (Web Search) i przetwarzanie wsadowe (Batch API), co pozwala na tworzenie bardziej złożonych i efektywnych integracji AI.
+
+### Materiały dodatkowe
+
+*   [Notatnik Colab: Interaktywny przewodnik po API modeli językowych](https://colab.research.google.com/drive/1O8ueKXMOqn0S2yanBHD4XJrBmixVeRAL?usp=sharing) - Praktyczny notatnik pokazujący, jak korzystać z API modeli językowych w Pythonie.
+*   **Narzędzia wspomniane w lekcji:**
+    *   [OpenRouter](https://openrouter.ai/) - Agregator API różnych modeli językowych.
+    *   [Google AI Studio](https://aistudio.google.com/) - Interfejs webowy do modeli Gemini.
+    *   [OpenAI Playground](https://platform.openai.com/playground) - Interfejs webowy do modeli GPT.
+    *   [Anthropic Console](https://console.anthropic.com/) - Interfejs webowy do modeli Claude.
+
 
 ### Notatniki Colab
 
@@ -50,7 +61,7 @@ Poniższa tabela zawiera linki do notatników Google Colab używanych w tym tygo
 | :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------- |
 | Wprowadzenie do Google Colab        | Notatnik służący do nauki podstaw korzystania z narzędzia Google Colab, przygotowujący do pracy z pozostałymi materiałami kursu.                        | [Otwórz w Colab](https://colab.research.google.com/drive/1bi7TZAq_1Kr0fH5kDKluJSkRu8jRyMpJ?usp=sharing) |
 | Import danych z Excela do Supabase | Notatnik demonstrujący proces importowania danych z arkuszy Excel do bazy danych Supabase. | [Otwórz w Colab](https://colab.research.google.com/drive/1NE7AbjT3H81fcsu-uMpv-qXeduWKtPxA?authuser=0#scrollTo=ovOxY2nY5Zdt) |
-| *(Więcej notatników pojawi się tutaj)* | *(Opis kolejnego notatnika)*                                                                                                                            | *(Link do kolejnego notatnika)*                                                               |
+| Komunikacja z API modeli językowych | Praktyczny przewodnik po programowej komunikacji z API modeli językowych (np. OpenAI, Gemini) przy użyciu Pythona.                                    | [Otwórz w Colab](https://colab.research.google.com/drive/1O8ueKXMOqn0S2yanBHD4XJrBmixVeRAL?usp=sharing) |
 
 ---
 

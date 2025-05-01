@@ -12,6 +12,7 @@ W tej lekcji zapoznajemy się z Google Colab - narzędziem, które pozwala na tw
 ### Materiały dodatkowe
 
 *   [Notatnik wprowadzający do Google Colab](https://colab.research.google.com/drive/1bi7TZAq_1Kr0fH5kDKluJSkRu8jRyMpJ?usp=sharing) - ten notatnik służy do nauki podstaw korzystania z narzędzia Google Colab
+*   [Przykładowe notatniki Google Colab](https://colab.google/notebooks/) - różne notatniki od Google, które można wykorzystać we własnych projektach.
 
 ## Lekcja: Supabase
 

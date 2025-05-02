@@ -30,6 +30,7 @@ Ten dokument określa zasady i najlepsze praktyki dla modelu językowego (AI), k
     *   **Notatniki Colab:** Aktualizuj główny plik `Notatniki_Colab.md` ORAZ linkuj z odpowiedniego `Materialy_z_lekcji/.../README.md`.
     *   **Narzędzia:** Aktualizuj główny plik `Narzędzia.md`.
 *   **Linki:** Weryfikuj poprawność linków (wewnętrznych - używaj ścieżek względnych, np. `../Datasety/plik.xlsx`; i zewnętrznych).
+*   **Linki:** Weryfikuj poprawność linków (wewnętrznych - używaj ścieżek względnych, np. `../Datasety/plik.xlsx`; i zewnętrznych).
 *   **Centralizacja:** Dbaj o to, aby główne listy i katalogi (`Datasety/`, `Prompty/`, `Notatniki_Colab.md`, `Narzędzia.md`) były zawsze aktualne.
 
 ## 3. Komunikacja z Użytkownikiem (Twórcą Kursu)

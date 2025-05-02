@@ -61,3 +61,9 @@ W tej sekcji znajdziesz dodatkowe materiały i źródła, które mogą być pomo
 
 *   [Poradnik Google na temat prompt engineeringu](https://www.kaggle.com/whitepaper-prompt-engineering)
 
+## Lekcja: Narzędzia do Przygotowania Danych dla Modeli Językowych
+
+W tej lekcji przyglądamy się narzędziom, które ułatwiają konwersję treści stron internetowych do formatu Markdown, optymalnego dla modeli językowych. Omawiamy Jina Reader, FireCrawl i Crawl for AI, porównując ich funkcjonalności, takie jak obsługa pojedynczych URL vs całych domen, ekstrakcja danych za pomocą LLM (`LLM Extract`) oraz różnice w szybkości i dostępności (open source vs wersje komercyjne). Pokazujemy również przykład automatyzacji procesu wzbogacania danych (Data Enrichment) za pomocą Make.com i API Jina Reader.
+
+*   **Notatka z lekcji:** [./Lekcja_Narzędzia_do_Przygotowania_Danych_LLM/Notatka_z_lekcji.md](./Lekcja_Narzędzia_do_Przygotowania_Danych_LLM/Notatka_z_lekcji.md) - szczegółowe omówienie narzędzi Jina Reader, FireCrawl, Crawl for AI oraz przykład automatyzacji w Make.com.
+

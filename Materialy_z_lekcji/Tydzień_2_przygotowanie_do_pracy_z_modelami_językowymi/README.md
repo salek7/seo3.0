@@ -98,13 +98,13 @@ Ta lekcja prezentuje różne narzędzia i techniki pokazujące, w jaki sposób m
 
 *   **Porównanie narzędzi do AI Crawlingu:**
 
-	| Narzędzie                              | Open source | Python SDK | Crawlowanie całej witryny | Wersja no-code | Zalety                                 | Wady                                               |
-	| :------------------------------------- | :---------: | :--------: | :-----------------------: | :------------: | :------------------------------------- | :------------------------------------------------- |
-	| Jina reader                            |     *✅*    |     ❌     |             ❌            |       ❌       | Proste API                             | Mała liczba funkcji                                |
-	| [Firecrawl](https://www.firecrawl.dev/) |     *✅*    |     ✅     |             ✅            |       ✅       | Mnogość funkcji                        | Wysoki koszt w wersji komercyjnej                  |
-	| [Crawl4AI](https://github.com/unclecode/crawl4ai) |     ✅      |     ✅     |             ✅            |       ❌       | Szybkość, bezpłatne (open source)      | Trudność wdrożenia                                 |
-	| Automatyzacja Make                     |     ❌      |     ❌     |             ❌            |       ✅       | Łatwość wdrożenia                     | Stosunkowo wysoki koszt, trudna skalowalność       |
-	*Posiada również wersję komercyjną.*
+	| Narzędzie                              | Open source                                       | Python SDK | Crawlowanie całej witryny | Wersja no-code | Zalety                                 | Wady                                               |
+	| :------------------------------------- | :------------------------------------------------ | :--------: | :-----------------------: | :------------: | :------------------------------------- | :------------------------------------------------- |
+	| [Jina reader](https://jina.ai/reader/) |     *✅* (posiada również wersję komercyjną)    |     ❌     |             ❌            |       ❌       | Proste API                             | Mała liczba funkcji                                |
+	| [Firecrawl](https://www.firecrawl.dev/) |     *✅* (posiada również wersję komercyjną)    |     ✅     |             ✅            |       ✅       | Mnogość funkcji                        | Wysoki koszt w wersji komercyjnej                  |
+	| [Crawl4AI](https://github.com/unclecode/crawl4ai) |     ✅                                            |     ✅     |             ✅            |       ❌       | Szybkość, bezpłatne (open source)      | Trudność wdrożenia                                 |
+	| Automatyzacja Make                     |     ❌                                            |     ❌     |             ❌            |       ✅       | Łatwość wdrożenia                     | Stosunkowo wysoki koszt, trudna skalowalność       |
+
 
 ### Notatniki Colab
 

@@ -103,8 +103,6 @@ Ta lekcja prezentuje różne narzędzia i techniki pokazujące, w jaki sposób m
 	| [Jina reader](https://jina.ai/reader/) |     *✅* (posiada również wersję komercyjną)    |     ❌     |             ❌            |       ❌       | Proste API                             | Mała liczba funkcji                                |
 	| [Firecrawl](https://www.firecrawl.dev/) |     *✅* (posiada również wersję komercyjną)    |     ✅     |             ✅            |       ✅       | Mnogość funkcji                        | Wysoki koszt w wersji komercyjnej                  |
 	| [Crawl4AI](https://github.com/unclecode/crawl4ai) |     ✅                                            |     ✅     |             ✅            |       ❌       | Szybkość, bezpłatne (open source)      | Trudność wdrożenia                                 |
-	| Automatyzacja Make                     |     ❌                                            |     ❌     |             ❌            |       ✅       | Łatwość wdrożenia                     | Stosunkowo wysoki koszt, trudna skalowalność       |
-
 
 ### Notatniki Colab
 

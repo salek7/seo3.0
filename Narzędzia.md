@@ -11,6 +11,8 @@ W tym pliku znajduje się zestawienie wszystkich narzędzi używanych lub omawia
 | Make.com (dawniej Integromat) | Platforma automatyzacji |  |  | Narzędzie no-code do tworzenia zautomatyzowanych przepływów pracy (scenariuszy) łączących różne aplikacje i usługi. Pozwala na automatyzację zadań SEO, takich jak zbieranie danych, raportowanie, monitorowanie i aktualizacja zawartości bez konieczności kodowania. Umożliwia integrację z narzędziami analitycznymi, API, bazami danych i modelami AI, co czyni go potężnym narzędziem w arsenale specjalisty SEO. | [Make.com](https://www.make.com/) |
 | RapidAPI Hub | Marketplace API | 2 | [Pozyskiwanie danych](Materialy_z_lekcji/Tydzień_2_przygotowanie_do_pracy_z_modelami_językowymi/README.md#lekcja-pozyskiwanie-danych-dla-modeli-językowych) | Duży marketplace oferujący dostęp do tysięcy API z różnych kategorii, ułatwiający znajdowanie i integrację z zewnętrznymi usługami. | [RapidAPI Hub](https://rapidapi.com/hub) |
 | Apify | Platforma Web Scrapingu / Marketplace API | 2 | [Pozyskiwanie danych](Materialy_z_lekcji/Tydzień_2_przygotowanie_do_pracy_z_modelami_językowymi/README.md#lekcja-pozyskiwanie-danych-dla-modeli-językowych) | Platforma do tworzenia, uruchamiania i publikowania narzędzi do web scrapingu (Aktorów). Oferuje również gotowe scrapery dostępne przez API oraz narzędzia do automatyzacji webowej. | [Apify](https://apify.com/) |
+| crawl4ai | Web Crawler / AI | 2 | [AI Crawling](Materialy_z_lekcji/Tydzień_2_przygotowanie_do_pracy_z_modelami_językowymi/README.md#lekcja-ai-crawling) | Biblioteka Python (open source) do budowania crawlerów internetowych zoptymalizowanych pod kątem współpracy z modelami językowymi (LLM-friendly). | [crawl4ai (GitHub)](https://github.com/unclecode/crawl4ai) |
+| Firecrawl | Web Crawler / AI | 2 | [AI Crawling](Materialy_z_lekcji/Tydzień_2_przygotowanie_do_pracy_z_modelami_językowymi/README.md#lekcja-ai-crawling) | Narzędzie do crawlowania stron internetowych, które potrafi przekształcać strony w dane przyjazne dla LLM. Dostępne jako usługa API oraz biblioteka open source. | [Firecrawl](https://www.firecrawl.dev/) |
 
 ## Narzędzia AI i modele językowe
 
@@ -25,7 +27,8 @@ W tym pliku znajduje się zestawienie wszystkich narzędzi używanych lub omawia
 
 | Narzędzie | Kategoria | Tydzień | Lekcja | Opis | Link |
 | :-------- | :-------- | :------ | :----- | :--- | :--- |
-| *(Tu pojawią się narzędzia SEO)* | | | | | |
+| **SerpData.io** | SERP API | 2 | [Generowanie skryptów Python](Materialy_z_lekcji/Tydzień_2_przygotowanie_do_pracy_z_modelami_językowymi/README.md#lekcja-generowanie-prostych-skryptów-python-przy-wykorzystaniu-modeli-językowych) | API do pobierania wyników wyszukiwania Google (SERP) w czasie rzeczywistym. (Narzędzie od Senuto). Przydatne do zasilania modeli danymi o aktualnych rankingach. | [SerpData.io](https://serpdata.io/) |
+| *(Tu pojawią się inne narzędzia SEO)* | | | | | |
 
 ---
 

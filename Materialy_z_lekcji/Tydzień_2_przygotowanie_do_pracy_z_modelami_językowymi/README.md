@@ -66,6 +66,46 @@ W tej lekcji skupiamy się na kluczowym aspekcie pracy z modelami językowymi �
     *   [RapidAPI Hub](https://rapidapi.com/hub) - Duży marketplace z różnorodnymi API.
     *   [Apify](https://apify.com/) - Platforma z gotowymi scraperami (aktorami) i narzędziami do automatyzacji webowej, często dostępnymi przez API.
 
+## Lekcja: Generowanie prostych skryptów python przy wykorzystaniu modeli językowych
+
+W tej lekcji przyjrzymy się, jak efektywnie wykorzystać modele językowe do generowania prostych skryptów w języku Python. Omówimy, które modele sprawdzają się najlepiej w zadaniach programistycznych oraz jak formułować zapytania (prompty), aby uzyskać działający i poprawny kod.
+
+**Najlepsze modele do programowania (stan na Q3 2024):**
+
+*   **Modele Claude (Anthropic):** Szczególnie Claude 3.5 Sonnet i przyszłe wersje (np. zapowiedziany 3.7 Sonnet) wykazują doskonałe zdolności w rozumieniu i generowaniu kodu.
+*   **Modele Gemini (Google):** Najnowsze wersje, takie jak Gemini 2.5 Pro, również oferują zaawansowane możliwości w zakresie kodowania.
+
+**Specjalistyczne GPTs do kodowania w Pythonie (OpenAI):**
+
+*   [Python GPT by Nicholas Barker](https://chatgpt.com/g/g-cKXjWStaE-python) - Specjalnie dostosowany GPT do zadań związanych z Pythonem.
+
+**Inne przydatne zasoby:**
+
+*   [Cursor Rules Directory (Python)](https://cursor.directory/rules/python) - Strona zawierająca różne instrukcje systemowe (rules) dla AI, które mogą być pomocne przy programowaniu w Pythonie.
+
+*(Uwaga: W tej lekcji nie korzystamy z dedykowanego notatnika Colab, skupiamy się na interakcji z modelami poprzez ich interfejsy webowe lub API.)*
+
+## Lekcja: AI Crawling
+
+Ta lekcja prezentuje różne narzędzia i techniki pokazujące, w jaki sposób można realizować proces crawlowania (zbierania danych ze stron internetowych) przy wykorzystaniu modeli językowych. Zobaczymy, jak AI może pomóc w ekstrakcji, strukturyzacji i przetwarzaniu informacji z sieci.
+
+### Materiały dodatkowe
+
+*   [Notatnik Colab: Crawl4AI - Wprowadzenie](https://colab.research.google.com/drive/1dgALAwthnxbpaUu_0p5xf08W45JrLvdt?usp=sharing) - Praktyczne wprowadzenie do narzędzia Crawl4AI.
+*   **Narzędzia do AI Crawlingu:**
+    *   [crawl4ai (GitHub)](https://github.com/unclecode/crawl4ai) - Narzędzie Open Source do crawlowania zoptymalizowane pod kątem modeli językowych.
+    *   [Firecrawl](https://www.firecrawl.dev/) - Komercyjne narzędzie do crawlingu oferujące również wersję open source.
+
+*   **Porównanie narzędzi do AI Crawlingu:**
+
+	| Narzędzie                              | Open source | Python SDK | Crawlowanie całej witryny | Wersja no-code | Zalety                                 | Wady                                               |
+	| :------------------------------------- | :---------: | :--------: | :-----------------------: | :------------: | :------------------------------------- | :------------------------------------------------- |
+	| Jina reader                            |     *✅*    |     ❌     |             ❌            |       ❌       | Proste API                             | Mała liczba funkcji                                |
+	| [Firecrawl](https://www.firecrawl.dev/) |     *✅*    |     ✅     |             ✅            |       ✅       | Mnogość funkcji                        | Wysoki koszt w wersji komercyjnej                  |
+	| [Crawl4AI](https://github.com/unclecode/crawl4ai) |     ✅      |     ✅     |             ✅            |       ❌       | Szybkość, bezpłatne (open source)      | Trudność wdrożenia                                 |
+	| Automatyzacja Make                     |     ❌      |     ❌     |             ❌            |       ✅       | Łatwość wdrożenia                     | Stosunkowo wysoki koszt, trudna skalowalność       |
+	*Posiada również wersję komercyjną.*
+
 ### Notatniki Colab
 
 Poniższa tabela zawiera linki do notatników Google Colab używanych w tym tygodniu.
@@ -76,6 +116,7 @@ Poniższa tabela zawiera linki do notatników Google Colab używanych w tym tygo
 | Import danych z Excela do Supabase | Notatnik demonstrujący proces importowania danych z arkuszy Excel do bazy danych Supabase. | [Otwórz w Colab](https://colab.research.google.com/drive/1NE7AbjT3H81fcsu-uMpv-qXeduWKtPxA?authuser=0#scrollTo=ovOxY2nY5Zdt) |
 | Komunikacja z API modeli językowych | Praktyczny przewodnik po programowej komunikacji z API modeli językowych (np. OpenAI, Gemini) przy użyciu Pythona.                                    | [Otwórz w Colab](https://colab.research.google.com/drive/1O8ueKXMOqn0S2yanBHD4XJrBmixVeRAL?usp=sharing) |
 | Pozyskiwanie danych dla modeli      | Ćwiczenia praktyczne z pozyskiwania i przygotowywania danych z różnych źródeł (np. API) dla modeli językowych.                                       | [Otwórz w Colab](https://colab.research.google.com/drive/1eI7_Te5IZBOh-hvxFnHJVRNrfgFAAqa7#scrollTo=WMUMmKCBrYXK) |
+| AI Crawling - Wprowadzenie do Crawl4AI | Wprowadzenie do narzędzia Crawl4AI, pokazujące jego możliwości w zakresie AI-driven web crawlingu.                                                | [Otwórz w Colab](https://colab.research.google.com/drive/1dgALAwthnxbpaUu_0p5xf08W45JrLvdt?usp=sharing) |
 
 ---
 

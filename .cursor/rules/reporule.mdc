@@ -1,7 +1,7 @@
 ---
-description: 
-globs: 
-alwaysApply: true
+description:
+globs:
+alwaysApply: false
 ---
 # Wytyczne dla AI dotyczące Repozytorium Kursu SEO 3.0
 
@@ -9,29 +9,31 @@ Ten dokument określa zasady i najlepsze praktyki dla modelu językowego (AI), k
 
 ## 1. Zrozumienie Celu i Struktury Repozytorium
 
-*   **Cel Główny:** Repozytorium służy jako centralne miejsce na materiały pomocnicze (notatniki Colab, datasety, prompty, linki, opisy narzędzi) dla uczestników kursu SEO 3.0. Utrzymuj wszystkie treści i komunikację w języku polskim.
+*   **Cel Główny:** Repozytorium służy jako centralne miejsce na materiały pomocnicze (notatniki Colab, datasety, prompty, linki, opisy narzędzi, notatki z lekcji) dla uczestników kursu SEO 3.0. Utrzymuj wszystkie treści i komunikację w języku polskim.
 *   **Kluczowe Katalogi i Pliki:**
-    *   `Materialy_z_lekcji/`: Zawiera podkatalogi dla każdego tygodnia kursu (np. `Tydzień_X_nazwa`). Wewnątrz każdego tygodnia znajduje się `README.md` opisujący materiały lekcyjne.
+    *   `Materialy_z_lekcji/`: Zawiera podkatalogi dla każdego tygodnia kursu (np. `Tydzień_X_nazwa`). Wewnątrz każdego tygodnia znajduje się `README.md` opisujący materiały lekcyjne dla danego tygodnia.
     *   `Datasety/`: Centralne repozytorium dla wszystkich zestawów danych. Posiada własny `README.md` z opisami.
     *   `Prompty/`: Zbiór przykładowych promptów AI. Posiada własny `README.md` z opisami i przeznaczeniem promptów.
     *   `Notatniki_Colab.md`: Główna lista wszystkich notatników Colab używanych w kursie.
     *   `Narzędzia.md`: Główna lista narzędzi SEO, AI, programistycznych omawianych w kursie.
+    *   `Notatki_z_Lekcji.md`: Główna lista wszystkich notatek z lekcji, z linkami do poszczególnych plików.
     *   `README.md` (główny): Ogólny opis repozytorium.
 
 ## 2. Zasady Rozwoju i Modyfikacji
 
 *   **Spójność:** Zawsze utrzymuj istniejącą strukturę katalogów i konwencje nazewnictwa.
-*   **Dodawanie Materiałów Lekcyjnych:**
-    *   Umieszczaj nowe materiały w odpowiednim podkatalogu `Materialy_z_lekcji/Tydzień_X.../`.
-    *   Zawsze aktualizuj `README.md` w danym tygodniu, dodając opis i linki do nowych materiałów.
+*   **Dodawanie Materiałów Lekcyjnych (w tym Notatek):**
+    *   Dla każdej nowej lekcji utwórz dedykowany podkatalog wewnątrz odpowiedniego tygodnia, np. `Materialy_z_lekcji/Tydzień_X.../Lekcja_Nazwa_Lekcji/`.
+    *   W katalogu lekcji umieść plik `Notatka_z_lekcji.md` z treścią notatek. Inne materiały specyficzne dla lekcji (np. pliki, skrypty) również umieszczaj w tym katalogu.
+    *   Zawsze aktualizuj `README.md` w danym tygodniu (`Materialy_z_lekcji/Tydzień_X.../README.md`), dodając sekcję opisującą nową lekcję i link względny do jej pliku `Notatka_z_lekcji.md` (np. `./Lekcja_Nazwa_Lekcji/Notatka_z_lekcji.md`).
+    *   Zawsze aktualizuj główny plik `Notatki_z_Lekcji.md`, dodając wpis (wiersz w tabeli) z numerem tygodnia, tematem lekcji i linkiem względnym do odpowiedniego pliku `Notatka_z_lekcji.md`.
 *   **Dodawanie Zasobów Ogólnych:**
     *   **Datasety:** Dodawaj do `Datasety/`, aktualizuj `Datasety/README.md` ORAZ linkuj z odpowiedniego `Materialy_z_lekcji/.../README.md`.
     *   **Prompty:** Dodawaj do `Prompty/`, aktualizuj `Prompty/README.md` (z opisem, przeznaczeniem, modelem AI, powiązaną lekcją).
     *   **Notatniki Colab:** Aktualizuj główny plik `Notatniki_Colab.md` ORAZ linkuj z odpowiedniego `Materialy_z_lekcji/.../README.md`.
     *   **Narzędzia:** Aktualizuj główny plik `Narzędzia.md`.
-*   **Linki:** Weryfikuj poprawność linków (wewnętrznych - używaj ścieżek względnych, np. `../Datasety/plik.xlsx`; i zewnętrznych).
-*   **Linki:** Weryfikuj poprawność linków (wewnętrznych - używaj ścieżek względnych, np. `../Datasety/plik.xlsx`; i zewnętrznych).
-*   **Centralizacja:** Dbaj o to, aby główne listy i katalogi (`Datasety/`, `Prompty/`, `Notatniki_Colab.md`, `Narzędzia.md`) były zawsze aktualne.
+*   **Linki:** Weryfikuj poprawność linków (wewnętrznych - używaj ścieżek względnych, np. `../Datasety/plik.xlsx` lub `./Lekcja_Nazwa/Notatka.md`; i zewnętrznych).
+*   **Centralizacja:** Dbaj o to, aby główne listy i katalogi (`Datasety/`, `Prompty/`, `Notatniki_Colab.md`, `Narzędzia.md`, `Notatki_z_Lekcji.md`) były zawsze aktualne i spójne z materiałami w katalogach tygodniowych.
 
 ## 3. Komunikacja z Użytkownikiem (Twórcą Kursu)
 
@@ -39,17 +41,18 @@ Ten dokument określa zasady i najlepsze praktyki dla modelu językowego (AI), k
 *   **Klaruj Cel:** Zanim zaczniesz pracę, upewnij się, że rozumiesz cel zadania. Pytaj o:
     *   Przynależność materiału (Która lekcja/tydzień?).
     *   Główny cel (Co uczestnik ma z tego wynieść?).
-    *   Powiązania z innymi zasobami.
-    *   Wymagane opisy w `README.md`.
+    *   Powiązania z innymi zasobami (np. datasety, notatniki Colab).
+    *   Wymagane opisy w plikach `README.md` i `Notatki_z_Lekcji.md`.
     *   Potrzebne linki.
-*   **Potwierdzaj Zrozumienie:** Podsumuj planowane kroki przed ich wykonaniem.
-*   **Sugeruj Kompleksowe Zmiany:** Jeśli zadanie wymaga modyfikacji w wielu miejscach, poinformuj o tym i zaproponuj wykonanie wszystkich koniecznych kroków.
-*   **Raportuj Wyniki:** Po zakończeniu pracy jasno opisz, co zostało zrobione i gdzie.
+*   **Potwierdzaj Zrozumienie:** Podsumuj planowane kroki przed ich wykonaniem, zwłaszcza przy dodawaniu nowych lekcji (utworzenie folderu, pliku notatki, aktualizacja tygodniowego README, aktualizacja centralnej listy notatek).
+*   **Sugeruj Kompleksowe Zmiany:** Jeśli zadanie (np. dodanie lekcji) wymaga modyfikacji w wielu miejscach (folder, plik notatki, weekly README, centralna lista), poinformuj o tym i zaproponuj wykonanie wszystkich koniecznych kroków.
+*   **Raportuj Wyniki:** Po zakończeniu pracy jasno opisz, co zostało zrobione i gdzie (np. "Utworzyłem folder X, plik Y, zaktualizowałem pliki Z i W").
 *   **Język:** Używaj języka polskiego.
 
 ## 4. Praca z Git
 
-*   **Status:** Zawsze sprawdzaj `git status` przed rozpoczęciem pracy.
-*   **Dodawanie:** Używaj `git add` dla wszystkich zmodyfikowanych/nowych plików objętych zadaniem.
-*   **Commit:** Twórz jasne, opisowe komunikaty commitów w języku polskim (np. `git commit -m "Dodanie notatnika Colab dla Tygodnia 3"`).
+*   **Status:** Zawsze sprawdzaj `git status` przed rozpoczęciem pracy i przed commitowaniem.
+*   **Dodawanie:** Używaj `git add` dla wszystkich zmodyfikowanych/nowych plików objętych zadaniem (np. `git add .` lub `git add ścieżka/do/pliku`).
+*   **Commit:** Twórz jasne, opisowe komunikaty commitów w języku polskim (np. `git commit -m "Dodanie notatki do lekcji X w Tygodniu Y"`).
+*   **Pull:** Zanim zaczniesz pracę nad nowymi zmianami lub przed pushowaniem, rozważ `git pull origin main` (lub inną wskazaną gałąź), aby zsynchronizować repozytorium. Rozwiązuj konflikty, jeśli wystąpią.
 *   **Push:** Wysyłaj zmiany na gałąź `main` (`git push origin main`), chyba że użytkownik wskaże inaczej.

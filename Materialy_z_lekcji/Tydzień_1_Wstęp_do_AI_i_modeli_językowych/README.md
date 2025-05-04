@@ -62,6 +62,7 @@ Ta lekcja skupia się na technikach zdobywania aktualnej wiedzy za pomocą narz�
 
 *   **Link do lekcji na platformie:** [Obejrzyj lekcję na SensAI Academy](https://learn.sensai.academy/next/public/lesson/256)
 *   **Notatka z lekcji:** [./Lekcja_Pozyskiwanie_Wiedzy_Deep_Research/Pozyskiwanie_Wiedzy_Deep_Research.md](./Lekcja_Pozyskiwanie_Wiedzy_Deep_Research/Pozyskiwanie_Wiedzy_Deep_Research.md) - Szczegółowe omówienie i porównanie funkcji Deep Research/Search w popularnych narzędziach AI.
+*   **Transkrypcja:** [./Lekcja_Pozyskiwanie_Wiedzy_Deep_Research/Pozyskiwanie_wiedzy_i_deep_research.txt](./Lekcja_Pozyskiwanie_Wiedzy_Deep_Research/Pozyskiwanie_wiedzy_i_deep_research.txt) - Pełna transkrypcja lekcji.
 
 ### Porównanie funkcji Deep Search / Research (wg lekcji):
 

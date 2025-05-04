@@ -67,4 +67,32 @@ Ta lekcja skupia się na technikach zdobywania aktualnej wiedzy za pomocą narz�
 | **Chat GPT** | `Zbadaj głęboko`              | Query expansion, głęboki research (prawdopodobnie Bing)     | -                                   | ? (demo nie zadziałało)             | -                                           |
 | **Perplexity** | `Badania` / `Zaaw. analiza` | Widoczny proces query expansion, iteracyjne wyszukiwanie    | Dobra wizualizacja procesu          | 39                                  | Dobry punkt startowy                     |
 | **Grok** | `Deep Search`/`Deeper Search` | Query expansion, iteracyjne wyszukiwanie                    | Dostęp do danych z platformy X       | 32                                  | Dobry, zwłaszcza dla tematów z X        |
-| **Gemini** | `Deep Research`               | Najbardziej rozbudowany proces, głębokie wnioskowanie (reasoning) | Największa liczba analizowanych źródeł | >73 (proces trwał)                 | **Najlepszy** pod względem kompleksowości  | 
+| **Gemini** | `Deep Research`               | Najbardziej rozbudowany proces, głębokie wnioskowanie (reasoning) | Największa liczba analizowanych źródeł | >73 (proces trwał)                 | **Najlepszy** pod względem kompleksowości  |
+
+---
+
+## Lekcja: Modele Open Source w AI: Przegląd, Zastosowania i Infrastruktura
+
+Ta lekcja wprowadza w świat modeli AI typu Open Source (OS). Omawiamy, dlaczego warto się nimi interesować (dostępność, kontrola danych, koszty, rozwój), gdzie szukać modeli i informacji (AI Leaderboards, Hugging Face, OpenRouter, Ollama) oraz przedstawiamy kluczowych graczy (Meta, Google, Mistral, polskie inicjatywy jak Bielik i PluM). Analizujemy różne opcje infrastrukturalne do uruchamiania modeli OS – od specjalistycznych dostawców AI (AnyScale, Together AI, Perplexity API, Grok Platform), przez routery (OpenRouter) i prywatne chmury (RunPod), aż po lokalne uruchomienie na własnym komputerze (Ollama). Wskazujemy typowe zastosowania modeli OS (backend, optymalizacja kosztów, bezpieczeństwo danych, fine-tuning) i zapowiadamy przyszłe trendy (destylacja modeli).
+
+*   **Link do lekcji na platformie:** [Obejrzyj lekcję na SensAI Academy](https://learn.sensai.academy/next/public/lesson/255)
+*   **Notatka z lekcji:** [./Lekcja_Modele_Open_Source_w_AI/Notatka_z_lekcji.md](./Lekcja_Modele_Open_Source_w_AI/Notatka_z_lekcji.md) - Szczegółowy przegląd świata modeli AI Open Source, platform, infrastruktury i zastosowań.
+
+### Omawiane platformy i narzędzia OS:
+
+*   **Gdzie szukać modeli/informacji:**
+    *   AI Leaderboards (wyszukaj w Google)
+    *   [Hugging Face](https://huggingface.co/)
+    *   [OpenRouter](https://openrouter.ai/)
+    *   [Ollama](https://ollama.com/)
+*   **Dostawcy infrastruktury AI:**
+    *   AnyScale
+    *   Together AI
+    *   [Perplexity API](https://www.perplexity.ai/) (część platformy Perplexity)
+    *   [Grok Platform](https://grok.com/)
+    *   RunPod
+*   **Kluczowi gracze OS (modele):**
+    *   Meta (`Llama 3.1`, `Llama 3.2`)
+    *   Google (`Gemma`)
+    *   Mistral AI (`Mistral`, `Mixtral`)
+    *   Polska (`Bielik`, `PluM` - w trakcie) 

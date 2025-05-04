@@ -124,4 +124,18 @@ Ta lekcja wprowadza do świata GPTs – niestandardowych wersji ChatGPT. Omawiam
 ### Omawiane narzędzia:
 
 *   [ChatGPT](https://chat.openai.com/) (Platforma do tworzenia i używania GPTs)
-*   [Senuto](https://www.senuto.com/) (Przykład integracji API) 
+*   [Senuto](https://www.senuto.com/) (Przykład integracji API)
+
+---
+
+## Lekcja: NotebookLM
+
+Ta lekcja przedstawia narzędzie NotebookLM od Google, skupiając się na jego funkcjach przydatnych w pracy z treścią i SEO. Omawiamy, jak dodawać źródła wiedzy (odkrywanie stron WWW, pliki z Drive, YouTube), jak wykorzystać funkcje czatu do interakcji z danymi oraz jak generować i interpretować mapy myśli do planowania treści. Pokazujemy również zaawansowany workflow wykorzystania wyeksportowanej mapy myśli w innych narzędziach AI (np. ChatGPT) do dalszej analizy i tworzenia np. planów artykułów. Zwracamy uwagę na obecne ograniczenia językowe narzędzia.
+
+*   **Link do lekcji na platformie:** [Obejrzyj lekcję na SensAI Academy](https://learn.sensai.academy/next/public/lesson/259)
+*   **Notatka z lekcji:** [./Lekcja_NotebookLM/Notatka_z_lekcji.md](./Lekcja_NotebookLM/Notatka_z_lekcji.md) - Przewodnik po funkcjach NotebookLM, w tym dodawaniu źródeł, generowaniu map myśli i ich wykorzystaniu.
+
+### Omawiane narzędzia:
+
+*   [NotebookLM (Google)](https://notebooklm.google.com/)
+*   [ChatGPT (OpenAI)](https://chat.openai.com/) (jako przykład narzędzia do dalszej analizy mapy myśli) 

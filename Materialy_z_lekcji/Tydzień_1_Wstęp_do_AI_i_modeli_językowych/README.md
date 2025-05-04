@@ -132,6 +132,7 @@ Ta lekcja wprowadza do świata GPTs – niestandardowych wersji ChatGPT. Omawiam
 
 *   **Link do lekcji na platformie:** [Obejrzyj lekcję na SensAI Academy](https://learn.sensai.academy/next/public/lesson/258)
 *   **Notatka z lekcji:** [./Lekcja_Poznajemy_GPTs/Poznajemy_GPTs.md](./Lekcja_Poznajemy_GPTs/Poznajemy_GPTs.md) - Przewodnik po tworzeniu i używaniu niestandardowych modeli GPTs w ChatGPT.
+*   **Transkrypcja:** [./Lekcja_Poznajemy_GPTs/T01L07_Poznajemy_GPTs_Transkrypcja.md](./Lekcja_Poznajemy_GPTs/T01L07_Poznajemy_GPTs_Transkrypcja.md) - Pełna transkrypcja lekcji.
 
 ### Omawiane narzędzia:
 
@@ -146,6 +147,7 @@ Ta lekcja przedstawia narzędzie NotebookLM od Google, skupiając się na jego f
 
 *   **Link do lekcji na platformie:** [Obejrzyj lekcję na SensAI Academy](https://learn.sensai.academy/next/public/lesson/259)
 *   **Notatka z lekcji:** [./Lekcja_NotebookLM/NotebookLM.md](./Lekcja_NotebookLM/NotebookLM.md) - Przewodnik po funkcjach NotebookLM, w tym dodawaniu źródeł, generowaniu map myśli i ich wykorzystaniu.
+*   **Transkrypcja:** [./Lekcja_NotebookLM/T01L08_Notebook_LM_Transkrypcja.md](./Lekcja_NotebookLM/T01L08_Notebook_LM_Transkrypcja.md) - Pełna transkrypcja lekcji.
 
 ### Omawiane narzędzia:
 

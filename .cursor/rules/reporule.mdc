@@ -1,7 +1,7 @@
 ---
 description: 
 globs: 
-alwaysApply: false
+alwaysApply: true
 ---
 # Wytyczne dla AI dotyczące Repozytorium Kursu SEO 3.0
 
@@ -28,10 +28,10 @@ Ten dokument określa zasady i najlepsze praktyki dla modelu językowego (AI), k
     * Zawsze aktualizuj `README.md` w danym tygodniu (`Materialy_z_lekcji/Tydzień_X.../README.md`), dodając sekcję opisującą nową lekcję i link względny do jej pliku notatek (np. `./Lekcja_Nazwa_Lekcji/Nazwa_Lekcji.md`).
     * Zawsze aktualizuj główny plik `Notatki_z_Lekcji.md`, dodając wpis (wiersz w tabeli) z numerem tygodnia, tematem lekcji i linkiem względnym do odpowiedniego pliku notatek (np. `ścieżka/do/Lekcja_Nazwa_Lekcji/Nazwa_Lekcji.md`).
 * **Dodawanie Transkrypcji Lekcyjnych:**
-    * Umieść plik z transkrypcją, **nazwany zgodnie z nazwą lekcji** (np. `Nazwa_Lekcji.txt`), w dedykowanym podkatalogu lekcji (`Materialy_z_lekcji/Tydzień_X.../Lekcja_Nazwa_Lekcji/`).
-    * Zaktualizuj `README.md` w danym tygodniu (`Materialy_z_lekcji/Tydzień_X.../README.md`), dodając w sekcji danej lekcji link względny do pliku transkrypcji (np. `./Lekcja_Nazwa_Lekcji/Nazwa_Lekcji.txt`).
+    * Umieść plik z transkrypcją, **nazwany zgodnie z nazwą lekcji** (np. `Nazwa_Lekcji_Transkrypcja.md`), w dedykowanym podkatalogu lekcji (`Materialy_z_lekcji/Tydzień_X.../Lekcja_Nazwa_Lekcji/`).
+    * Zaktualizuj `README.md` w danym tygodniu (`Materialy_z_lekcji/Tydzień_X.../README.md`), dodając w sekcji danej lekcji link względny do pliku transkrypcji (np. `./Lekcja_Nazwa_Lekcji/Nazwa_Lekcji_Transkrypcja.md`).
     * Utwórz lub zaktualizuj plik ze zbiorczą transkrypcją dla danego tygodnia (np. `Materialy_z_lekcji/Tydzień_X.../Transkrypcje_Tygodnia_X.md`). Dodaj nagłówek z nazwą lekcji i wklej pod nim pełną treść transkrypcji.
-    * Zaktualizuj główny plik `Notatki_z_Lekcji.md`, dodając (jeśli nie istnieje) kolumnę "Transkrypcja" i wstawiając w odpowiednim wierszu link względny do pliku z trypcją lekcji (np. `[Link](ścieżka/do/Lekcja_Nazwa_Lekcji/Nazwa_Lekcji.txt)`).
+    * Zaktualizuj główny plik `Notatki_z_Lekcji.md`, dodając (jeśli nie istnieje) kolumnę "Transkrypcja" i wstawiając w odpowiednim wierszu link względny do pliku z trypcją lekcji (np. `[Link](ścieżka/do/Lekcja_Nazwa_Lekcji/Nazwa_Lekcji_Transkrypcja.md)`).
 * **Dodawanie Zasobów Ogólnych:**
     * **Datasety:** Dodawaj do `Datasety/`, aktualizuj `Datasety/README.md` ORAZ linkuj z odpowiedniego `Materialy_z_lekcji/.../README.md`.
     * **Prompty:** Dodawaj do `Prompty/`, aktualizuj `Prompty/README.md` (z opisem, przeznaczeniem, modelem AI, powiązaną lekcją).

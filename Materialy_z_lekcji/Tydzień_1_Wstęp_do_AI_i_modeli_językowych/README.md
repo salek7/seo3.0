@@ -81,6 +81,7 @@ Ta lekcja wprowadza w świat modeli AI typu Open Source (OS). Omawiamy, dlaczego
 
 *   **Link do lekcji na platformie:** [Obejrzyj lekcję na SensAI Academy](https://learn.sensai.academy/next/public/lesson/255)
 *   **Notatka z lekcji:** [./Lekcja_Modele_Open_Source_w_AI/Modele_Open_Source_w_AI.md](./Lekcja_Modele_Open_Source_w_AI/Modele_Open_Source_w_AI.md) - Szczegółowy przegląd świata modeli AI Open Source, platform, infrastruktury i zastosowań.
+*   **Transkrypcja:** [Modele Open Source w AI - Transkrypcja](./Lekcja_Modele_Open_Source_w_AI/Modele_Open_Source_w_AI_Transkrypcja.md)
 
 ### Omawiane platformy i narzędzia OS:
 
@@ -100,6 +101,12 @@ Ta lekcja wprowadza w świat modeli AI typu Open Source (OS). Omawiamy, dlaczego
     *   Google (`Gemma`)
     *   Mistral AI (`Mistral`, `Mixtral`)
     *   Polska (`Bielik`, `PluM` - w trakcie)
+
+### Lekcja: Modele Open Source w AI
+
+- **Notatki:** [Modele Open Source w AI](./Lekcja_Modele_Open_Source_w_AI/Modele_Open_Source_w_AI.md)
+- **Transkrypcja:** [Modele Open Source w AI - Transkrypcja](./Lekcja_Modele_Open_Source_w_AI/Modele_Open_Source_w_AI_Transkrypcja.md)
+- **Opis:** Omówienie świata modeli open source, liderów rynku (Meta, Mistral), źródeł wiedzy (leaderboardy, HuggingFace, OpenRouter), modeli polskich (Bielik, Plum) oraz infrastruktur alternatywnych (AnyScale, TogetherAI, Perplexity, Grok, RunPod) i korzyści z ich stosowania (optymalizacja kosztów, bezpieczeństwo, fine-tuning).
 
 ---
 

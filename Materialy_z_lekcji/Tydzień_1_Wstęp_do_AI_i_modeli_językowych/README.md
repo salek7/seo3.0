@@ -11,8 +11,8 @@ Ten katalog zawiera materiały dodatkowe do lekcji z pierwszego tygodnia kursu S
 W tej lekcji przyglądamy się ewolucji technologii rozumienia języka naturalnego, od wczesnych koncepcji jak Word2Vec, przez Sequence-to-Sequence, aż po rewolucyjną architekturę Transformerów. Analizujemy, jak działają Transformery (tokenizacja, embedding, self-attention) na przykładzie materiałów Financial Times i omawiamy kluczowe momenty w rozwoju AI, w tym pojawienie się BERT i GPT. Lekcja zawiera również aktualizację dotyczącą gwałtownego przyspieszenia w rozwoju AI, multimodalności i przyszłości związanej z agentami AI i robotyką.
 
 *   **Link do lekcji na platformie:** [Obejrzyj lekcję na SensAI Academy](https://learn.sensai.academy/next/public/lesson/252)
-*   **Notatka z lekcji:** [./Lekcja_Historia_Modeli_Jezykowych/Notatka_z_lekcji.md](./Lekcja_Historia_Modeli_Jezykowych/Notatka_z_lekcji.md) - Szczegółowy przewodnik po historii modeli językowych, działaniu Transformerów i najnowszych trendach w AI.
-*   **Transkrypcja:** [./Lekcja_Historia_Modeli_Jezykowych/Transkrypcja_lekcji.txt](./Lekcja_Historia_Modeli_Jezykowych/Transkrypcja_lekcji.txt) - Pełna transkrypcja lekcji.
+*   **Notatka z lekcji:** [./Lekcja_Historia_Modeli_Jezykowych/Historia_Modeli_Jezykowych.md](./Lekcja_Historia_Modeli_Jezykowych/Historia_Modeli_Jezykowych.md) - Szczegółowy przewodnik po historii modeli językowych, działaniu Transformerów i najnowszych trendach w AI.
+*   **Transkrypcja:** [./Lekcja_Historia_Modeli_Jezykowych/Historia_Modeli_Jezykowych.txt](./Lekcja_Historia_Modeli_Jezykowych/Historia_Modeli_Jezykowych.txt) - Pełna transkrypcja lekcji.
 
 ---
 
@@ -21,7 +21,7 @@ W tej lekcji przyglądamy się ewolucji technologii rozumienia języka naturalne
 W tej lekcji zagłębiamy się w podstawy działania dużych modeli językowych (LLM). Omawiamy, czym są (a czym nie są), jak przebiega ich trening (Deep Learning, dane treningowe, dane syntetyczne) oraz jakie są ich główne wyzwania: natura "czarnej skrzynki", halucynacje (kluczowe dla SEO), stronniczość, niedeterministyczne zachowanie, bezpieczeństwo danych, brak pamięci i ograniczenia okna kontekstowego. Przyglądamy się również metodom oceny modeli (parametry, benchmarki tradycyjne i nowoczesne jak Humanity Last Exam, areny) oraz ich kategoryzacji (małe/duże, komercyjne/open source, chat/instruct, wizyjne, reasoningowe). Na koniec omawiamy wyzwania dla SEO w erze AI i przyszłość wyszukiwania (AI Overview).
 
 *   **Link do lekcji na platformie:** [Obejrzyj lekcję na SensAI Academy](https://learn.sensai.academy/next/public/lesson/253)
-*   **Notatka z lekcji:** [./Lekcja_Zrozumiec_Modele_Jezykowe/Notatka_z_lekcji.md](./Lekcja_Zrozumiec_Modele_Jezykowe/Notatka_z_lekcji.md) - Kompleksowe omówienie podstaw LLM, ich działania, wyzwań, oceny i kategoryzacji w kontekście 2025 roku.
+*   **Notatka z lekcji:** [./Lekcja_Zrozumiec_Modele_Jezykowe/Zrozumiec_Modele_Jezykowe.md](./Lekcja_Zrozumiec_Modele_Jezykowe/Zrozumiec_Modele_Jezykowe.md) - Kompleksowe omówienie podstaw LLM, ich działania, wyzwań, oceny i kategoryzacji w kontekście 2025 roku.
 
 ---
 
@@ -30,7 +30,7 @@ W tej lekcji zagłębiamy się w podstawy działania dużych modeli językowych 
 W tej lekcji dokonujemy przeglądu kluczowych narzędzi AI dostępnych na rynku (stan na kwiecień 2025). Omawiamy funkcjonalności, modele językowe, unikalne cechy i typowe zastosowania popularnych platform, aby ułatwić wybór odpowiedniego narzędzia do konkretnych zadań, szczególnie w marketingu i SEO.
 
 *   **Link do lekcji na platformie:** [Obejrzyj lekcję na SensAI Academy](https://learn.sensai.academy/next/public/lesson/254)
-*   **Notatka z lekcji:** [./Lekcja_Podstawowe_Narzedzia_AI/Notatka_z_lekcji.md](./Lekcja_Podstawowe_Narzedzia_AI/Notatka_z_lekcji.md) - Szczegółowy opis i porównanie narzędzi Chat GPT, Perplexity, Grok, Claude, Gemini i Google AI Studio.
+*   **Notatka z lekcji:** [./Lekcja_Podstawowe_Narzedzia_AI/Podstawowe_Narzedzia_AI.md](./Lekcja_Podstawowe_Narzedzia_AI/Podstawowe_Narzedzia_AI.md) - Szczegółowy opis i porównanie narzędzi Chat GPT, Perplexity, Grok, Claude, Gemini i Google AI Studio.
 
 ### Omawiane narzędzia:
 
@@ -59,7 +59,7 @@ W tej lekcji dokonujemy przeglądu kluczowych narzędzi AI dostępnych na rynku 
 Ta lekcja skupia się na technikach zdobywania aktualnej wiedzy za pomocą narzędzi AI, ze szczególnym uwzględnieniem funkcji `Deep Research` / `Deep Search`. Omawiamy problem nieaktualnej wiedzy modeli LLM i pokazujemy, jak proste wyszukiwanie (np. w Perplexity) oraz zaawansowane funkcje głębokiego badania (w Chat GPT, Perplexity, Grok, Gemini) pozwalają budować kompleksową, opartą na wielu źródłach bazę wiedzy. Porównujemy działanie tych funkcji w różnych narzędziach i przedstawiamy praktyczny workflow wykorzystania wyników deep research do tworzenia i optymalizacji treści.
 
 *   **Link do lekcji na platformie:** [Obejrzyj lekcję na SensAI Academy](https://learn.sensai.academy/next/public/lesson/256)
-*   **Notatka z lekcji:** [./Lekcja_Pozyskiwanie_Wiedzy_Deep_Research/Notatka_z_lekcji.md](./Lekcja_Pozyskiwanie_Wiedzy_Deep_Research/Notatka_z_lekcji.md) - Szczegółowe omówienie i porównanie funkcji Deep Research/Search w popularnych narzędziach AI.
+*   **Notatka z lekcji:** [./Lekcja_Pozyskiwanie_Wiedzy_Deep_Research/Pozyskiwanie_Wiedzy_Deep_Research.md](./Lekcja_Pozyskiwanie_Wiedzy_Deep_Research/Pozyskiwanie_Wiedzy_Deep_Research.md) - Szczegółowe omówienie i porównanie funkcji Deep Research/Search w popularnych narzędziach AI.
 
 ### Porównanie funkcji Deep Search / Research (wg lekcji):
 
@@ -77,7 +77,7 @@ Ta lekcja skupia się na technikach zdobywania aktualnej wiedzy za pomocą narz�
 Ta lekcja wprowadza w świat modeli AI typu Open Source (OS). Omawiamy, dlaczego warto się nimi interesować (dostępność, kontrola danych, koszty, rozwój), gdzie szukać modeli i informacji (AI Leaderboards, Hugging Face, OpenRouter, Ollama) oraz przedstawiamy kluczowych graczy (Meta, Google, Mistral, polskie inicjatywy jak Bielik i PluM). Analizujemy różne opcje infrastrukturalne do uruchamiania modeli OS – od specjalistycznych dostawców AI (AnyScale, Together AI, Perplexity API, Grok Platform), przez routery (OpenRouter) i prywatne chmury (RunPod), aż po lokalne uruchomienie na własnym komputerze (Ollama). Wskazujemy typowe zastosowania modeli OS (backend, optymalizacja kosztów, bezpieczeństwo danych, fine-tuning) i zapowiadamy przyszłe trendy (destylacja modeli).
 
 *   **Link do lekcji na platformie:** [Obejrzyj lekcję na SensAI Academy](https://learn.sensai.academy/next/public/lesson/255)
-*   **Notatka z lekcji:** [./Lekcja_Modele_Open_Source_w_AI/Notatka_z_lekcji.md](./Lekcja_Modele_Open_Source_w_AI/Notatka_z_lekcji.md) - Szczegółowy przegląd świata modeli AI Open Source, platform, infrastruktury i zastosowań.
+*   **Notatka z lekcji:** [./Lekcja_Modele_Open_Source_w_AI/Modele_Open_Source_w_AI.md](./Lekcja_Modele_Open_Source_w_AI/Modele_Open_Source_w_AI.md) - Szczegółowy przegląd świata modeli AI Open Source, platform, infrastruktury i zastosowań.
 
 ### Omawiane platformy i narzędzia OS:
 
@@ -105,7 +105,7 @@ Ta lekcja wprowadza w świat modeli AI typu Open Source (OS). Omawiamy, dlaczego
 Ta lekcja pokazuje praktyczne sposoby uruchamiania modeli językowych Open Source. Uczymy się, jak zainstalować i używać narzędzia **Ollama** do łatwego pobierania i uruchamiania modeli na własnym komputerze (Mac, Windows, Linux) za pomocą terminala. Następnie przechodzimy do uruchamiania modeli na zdalnej infrastrukturze chmurowej za pomocą platformy **RunPod**, omawiając proces wynajmu mocy obliczeniowej (GPU), wybór szablonów (np. z preinstalowaną Ollamą), różnice między trybem "On Demand" i "Spot" oraz zarządzanie kosztami. Dowiadujemy się również, jak połączyć się ze zdalną maszyną i uruchomić na niej model, a także o możliwości dostępu przez API.
 
 *   **Link do lekcji na platformie:** [Obejrzyj lekcję na SensAI Academy](https://learn.sensai.academy/next/public/lesson/257)
-*   **Notatka z lekcji:** [./Lekcja_Lokalne_Zdalne_Uruchamianie_Modeli/Notatka_z_lekcji.md](./Lekcja_Lokalne_Zdalne_Uruchamianie_Modeli/Notatka_z_lekcji.md) - Przewodnik krok po kroku po uruchamianiu modeli z Ollama lokalnie i na RunPod zdalnie.
+*   **Notatka z lekcji:** [./Lekcja_Lokalne_Zdalne_Uruchamianie_Modeli/Lokalne_Zdalne_Uruchamianie_Modeli.md](./Lekcja_Lokalne_Zdalne_Uruchamianie_Modeli/Lokalne_Zdalne_Uruchamianie_Modeli.md) - Przewodnik krok po kroku po uruchamianiu modeli z Ollama lokalnie i na RunPod zdalnie.
 
 ### Omawiane narzędzia:
 
@@ -120,7 +120,7 @@ Ta lekcja pokazuje praktyczne sposoby uruchamiania modeli językowych Open Sourc
 Ta lekcja wprowadza do świata GPTs – niestandardowych wersji ChatGPT. Omawiamy, czym są, do czego służą (automatyzacja zadań, personalizacja) oraz jak przeglądać istniejące modele w GPT Store. Krok po kroku pokazujemy proces tworzenia własnego GPTs w zakładce "Configure", omawiając kluczowe elementy: nazwę, opis, instrukcje, dodawanie bazy wiedzy (Knowledge/RAG), włączanie zdolności (Web Browse, DALL-E, Code Interpreter) oraz konfigurowanie działań (Actions) do integracji z zewnętrznymi API (np. Senuto). Wyjaśniamy również opcje zapisywania i udostępniania stworzonych GPTs.
 
 *   **Link do lekcji na platformie:** [Obejrzyj lekcję na SensAI Academy](https://learn.sensai.academy/next/public/lesson/258)
-*   **Notatka z lekcji:** [./Lekcja_Poznajemy_GPTs/Notatka_z_lekcji.md](./Lekcja_Poznajemy_GPTs/Notatka_z_lekcji.md) - Przewodnik po tworzeniu i używaniu niestandardowych modeli GPTs w ChatGPT.
+*   **Notatka z lekcji:** [./Lekcja_Poznajemy_GPTs/Poznajemy_GPTs.md](./Lekcja_Poznajemy_GPTs/Poznajemy_GPTs.md) - Przewodnik po tworzeniu i używaniu niestandardowych modeli GPTs w ChatGPT.
 
 ### Omawiane narzędzia:
 
@@ -134,7 +134,7 @@ Ta lekcja wprowadza do świata GPTs – niestandardowych wersji ChatGPT. Omawiam
 Ta lekcja przedstawia narzędzie NotebookLM od Google, skupiając się na jego funkcjach przydatnych w pracy z treścią i SEO. Omawiamy, jak dodawać źródła wiedzy (odkrywanie stron WWW, pliki z Drive, YouTube), jak wykorzystać funkcje czatu do interakcji z danymi oraz jak generować i interpretować mapy myśli do planowania treści. Pokazujemy również zaawansowany workflow wykorzystania wyeksportowanej mapy myśli w innych narzędziach AI (np. ChatGPT) do dalszej analizy i tworzenia np. planów artykułów. Zwracamy uwagę na obecne ograniczenia językowe narzędzia.
 
 *   **Link do lekcji na platformie:** [Obejrzyj lekcję na SensAI Academy](https://learn.sensai.academy/next/public/lesson/259)
-*   **Notatka z lekcji:** [./Lekcja_NotebookLM/Notatka_z_lekcji.md](./Lekcja_NotebookLM/Notatka_z_lekcji.md) - Przewodnik po funkcjach NotebookLM, w tym dodawaniu źródeł, generowaniu map myśli i ich wykorzystaniu.
+*   **Notatka z lekcji:** [./Lekcja_NotebookLM/NotebookLM.md](./Lekcja_NotebookLM/NotebookLM.md) - Przewodnik po funkcjach NotebookLM, w tym dodawaniu źródeł, generowaniu map myśli i ich wykorzystaniu.
 
 ### Omawiane narzędzia:
 

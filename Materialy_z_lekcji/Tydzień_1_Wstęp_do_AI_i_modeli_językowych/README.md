@@ -16,12 +16,13 @@ W tej lekcji przyglądamy się ewolucji technologii rozumienia języka naturalne
 
 ---
 
-## Lekcja: Zrozumieć modele językowe
+## Lekcja: Zrozumieć Modele Językowe
 
-W tej lekcji zagłębiamy się w podstawy działania dużych modeli językowych (LLM). Omawiamy, czym są (a czym nie są), jak przebiega ich trening (Deep Learning, dane treningowe, dane syntetyczne) oraz jakie są ich główne wyzwania: natura "czarnej skrzynki", halucynacje (kluczowe dla SEO), stronniczość, niedeterministyczne zachowanie, bezpieczeństwo danych, brak pamięci i ograniczenia okna kontekstowego. Przyglądamy się również metodom oceny modeli (parametry, benchmarki tradycyjne i nowoczesne jak Humanity Last Exam, areny) oraz ich kategoryzacji (małe/duże, komercyjne/open source, chat/instruct, wizyjne, reasoningowe). Na koniec omawiamy wyzwania dla SEO w erze AI i przyszłość wyszukiwania (AI Overview).
-
-*   **Link do lekcji na platformie:** [Obejrzyj lekcję na SensAI Academy](https://learn.sensai.academy/next/public/lesson/253)
-*   **Notatka z lekcji:** [./Lekcja_Zrozumiec_Modele_Jezykowe/Zrozumiec_Modele_Jezykowe.md](./Lekcja_Zrozumiec_Modele_Jezykowe/Zrozumiec_Modele_Jezykowe.md) - Kompleksowe omówienie podstaw LLM, ich działania, wyzwań, oceny i kategoryzacji w kontekście 2025 roku.
+*   **Cel:** Wyjaśnienie kluczowych pojęć związanych z LLM, ich działania, ograniczeń (halucynacje, bias) i potencjału. Omówienie benchmarków i sposobu oceny modeli.
+*   **Opis:** Modele językowe to nie magia, a technologia oparta na danych i uczeniu głębokim. Ta lekcja demistyfikuje LLM, pokazując jak powstają (dane, trening), jak działają (przewidywanie tokenów, planowanie), jakie mają wyzwania (halucynacje, stronniczość, bezpieczeństwo danych, kontekst) i jak je klasyfikujemy (małe/duże, komercyjne/open-source, czat/instruct, wizyjne, reasoningowe). Dowiesz się, jak interpretować benchmarki (np. MMLU, HumanEval, HellaSwag, Arena Score, Humanity Last Exam) i jak ocenić, który model wybrać do konkretnego zadania. Zrozumiesz też, dlaczego karmienie modeli danymi jest kluczowe dla redukcji halucynacji.
+*   **Materiały:**
+    *   Notatki: [./Lekcja_Zrozumiec_Modele_Jezykowe/Zrozumiec_Modele_Jezykowe.md](./Lekcja_Zrozumiec_Modele_Jezykowe/Zrozumiec_Modele_Jezykowe.md)
+    *   Transkrypcja: [./Lekcja_Zrozumiec_Modele_Jezykowe/Czym_sa_modele_jezykowe.txt](./Lekcja_Zrozumiec_Modele_Jezykowe/Czym_sa_modele_jezykowe.txt)
 
 ---
 
@@ -31,6 +32,7 @@ W tej lekcji dokonujemy przeglądu kluczowych narzędzi AI dostępnych na rynku 
 
 *   **Link do lekcji na platformie:** [Obejrzyj lekcję na SensAI Academy](https://learn.sensai.academy/next/public/lesson/254)
 *   **Notatka z lekcji:** [./Lekcja_Podstawowe_Narzedzia_AI/Podstawowe_Narzedzia_AI.md](./Lekcja_Podstawowe_Narzedzia_AI/Podstawowe_Narzedzia_AI.md) - Szczegółowy opis i porównanie narzędzi Chat GPT, Perplexity, Grok, Claude, Gemini i Google AI Studio.
+*   **Transkrypcja:** [./Lekcja_Podstawowe_Narzedzia_AI/Podstawowe_Narzedzia_AI.txt](./Lekcja_Podstawowe_Narzedzia_AI/Podstawowe_Narzedzia_AI.txt) - Pełna transkrypcja lekcji.
 
 ### Omawiane narzędzia:
 

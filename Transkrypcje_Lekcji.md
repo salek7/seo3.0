@@ -1,0 +1,3 @@
+| 1     | Zrozumieć Modele Językowe                 | [Link](mdc:Materialy_z_lekcji/Tydzień_1_Wstęp_do_AI_i_modeli_językowych/Lekcja_Zrozumiec_Modele_Jezykowe/Czym_sa_modele_jezykowe.txt)                                                              |
+| 1     | Historia Modeli Językowych              | [Link](mdc:Materialy_z_lekcji/Tydzień_1_Wstęp_do_AI_i_modeli_językowych/Lekcja_Historia_Modeli_Jezykowych/Historia_modeli_jezykowych.txt)                                                         |
+| 1     | Podstawowe Narzędzia AI                 | [Link](mdc:Materialy_z_lekcji/Tydzień_1_Wstęp_do_AI_i_modeli_językowych/Lekcja_Podstawowe_Narzedzia_AI/Podstawowe_Narzedzia_AI.txt)                                                              | 

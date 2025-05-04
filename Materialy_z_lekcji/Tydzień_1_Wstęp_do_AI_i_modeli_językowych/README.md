@@ -20,4 +20,33 @@ W tej lekcji przyglądamy się ewolucji technologii rozumienia języka naturalne
 W tej lekcji zagłębiamy się w podstawy działania dużych modeli językowych (LLM). Omawiamy, czym są (a czym nie są), jak przebiega ich trening (Deep Learning, dane treningowe, dane syntetyczne) oraz jakie są ich główne wyzwania: natura "czarnej skrzynki", halucynacje (kluczowe dla SEO), stronniczość, niedeterministyczne zachowanie, bezpieczeństwo danych, brak pamięci i ograniczenia okna kontekstowego. Przyglądamy się również metodom oceny modeli (parametry, benchmarki tradycyjne i nowoczesne jak Humanity Last Exam, areny) oraz ich kategoryzacji (małe/duże, komercyjne/open source, chat/instruct, wizyjne, reasoningowe). Na koniec omawiamy wyzwania dla SEO w erze AI i przyszłość wyszukiwania (AI Overview).
 
 *   **Link do lekcji na platformie:** [Obejrzyj lekcję na SensAI Academy](https://learn.sensai.academy/next/public/lesson/253)
-*   **Notatka z lekcji:** [./Lekcja_Zrozumiec_Modele_Jezykowe/Notatka_z_lekcji.md](./Lekcja_Zrozumiec_Modele_Jezykowe/Notatka_z_lekcji.md) - Kompleksowe omówienie podstaw LLM, ich działania, wyzwań, oceny i kategoryzacji w kontekście 2025 roku. 
+*   **Notatka z lekcji:** [./Lekcja_Zrozumiec_Modele_Jezykowe/Notatka_z_lekcji.md](./Lekcja_Zrozumiec_Modele_Jezykowe/Notatka_z_lekcji.md) - Kompleksowe omówienie podstaw LLM, ich działania, wyzwań, oceny i kategoryzacji w kontekście 2025 roku.
+
+---
+
+## Lekcja: Podstawowe narzędzia AI
+
+W tej lekcji dokonujemy przeglądu kluczowych narzędzi AI dostępnych na rynku (stan na kwiecień 2025). Omawiamy funkcjonalności, modele językowe, unikalne cechy i typowe zastosowania popularnych platform, aby ułatwić wybór odpowiedniego narzędzia do konkretnych zadań, szczególnie w marketingu i SEO.
+
+*   **Link do lekcji na platformie:** [Obejrzyj lekcję na SensAI Academy](https://learn.sensai.academy/next/public/lesson/254)
+*   **Notatka z lekcji:** [./Lekcja_Podstawowe_Narzedzia_AI/Notatka_z_lekcji.md](./Lekcja_Podstawowe_Narzedzia_AI/Notatka_z_lekcji.md) - Szczegółowy opis i porównanie narzędzi Chat GPT, Perplexity, Grok, Claude, Gemini i Google AI Studio.
+
+### Omawiane narzędzia:
+
+*   [Chat GPT (OpenAI)](https://chat.openai.com/)
+*   [Perplexity](https://www.perplexity.ai/)
+*   [Grok (xAI)](https://grok.com/)
+*   [Claude (Anthropic)](https://claude.ai/)
+*   [Gemini (Google)](https://gemini.google.com/)
+*   [Google AI Studio](https://aistudio.google.com/)
+
+### Tabela porównawcza (stan na kwiecień 2025 wg lekcji):
+
+| Narzędzie         | Dostawca        | Główny Cel / Zastosowanie               | Kluczowe / Unikalne Funkcje                                                                                                | Dostępne Modele (przykłady)                 | Link                                       |
+| :---------------- | :-------------- | :-------------------------------------- | :------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- | :----------------------------------------- |
+| **Chat GPT** | OpenAI          | Ogólne zastosowania, kod, treść        | `Canvas` (edytor), GPTs, Biblioteka, `/`-komendy, Projekty (proste)                                                         | `GPT-4o`, `GPT-4.5`, `O3`, `O4 mini`         | [chat.openai.com](https://chat.openai.com/) |
+| **Perplexity** | Perplexity AI   | Wyszukiwanie i synteza aktualnej wiedzy | Cytowanie źródeł, API, Automatyczny tryb Pro, Elastyczny wybór modeli (różni dostawcy)                                       | Różni dostawcy (OpenAI, Google, Anthropic) | [perplexity.ai](https://www.perplexity.ai/) |
+| **Grok** | X / xAI         | Programowanie, research, kontekst X    | `Workspaces` (separacja kontekstu), `Thinking`, Integracja z X, Dostęp przez `grok.com`                                    | `Grok`                                     | [grok.com](https://grok.com/)               |
+| **Claude** | Anthropic       | Programowanie, praca projektowa        | `Artifacts` (kod live), `Projekty` (separacja + instrukcje), Integracja GitHub/Drive, Własny styl (Tone of Voice)             | `Claude 3.7 Sonnet`                        | [claude.ai](https://claude.ai/)             |
+| **Gemini** | Google          | Zastosowania ogólne, integracja Google | Dostęp do `Gemini 2.5 Pro`, `Canvas`, Integracja z GSuite (wymaga zgód admina)                                              | `Gemini 2.5 Pro Experimental`              | [gemini.google.com](https://gemini.google.com/) |
+| **Google AI Studio** | Google          | Zaawansowana konfiguracja, deweloperka | `Grounding` (Google Search), Kontrola parametrów (temperatura), Generowanie wideo (`Veo 2`), Wybór modeli (`Gemma`, `Gemini`) | `Gemma`, `Gemini 1.5/2.5 Pro`, `Veo 2`     | [aistudio.google.com](https://aistudio.google.com/) | 

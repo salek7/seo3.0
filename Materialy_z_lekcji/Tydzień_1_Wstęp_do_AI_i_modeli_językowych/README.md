@@ -95,4 +95,33 @@ Ta lekcja wprowadza w świat modeli AI typu Open Source (OS). Omawiamy, dlaczego
     *   Meta (`Llama 3.1`, `Llama 3.2`)
     *   Google (`Gemma`)
     *   Mistral AI (`Mistral`, `Mixtral`)
-    *   Polska (`Bielik`, `PluM` - w trakcie) 
+    *   Polska (`Bielik`, `PluM` - w trakcie)
+
+---
+
+## Lekcja: Lokalne oraz zdalne uruchamianie modeli językowych
+
+Ta lekcja pokazuje praktyczne sposoby uruchamiania modeli językowych Open Source. Uczymy się, jak zainstalować i używać narzędzia **Ollama** do łatwego pobierania i uruchamiania modeli na własnym komputerze (Mac, Windows, Linux) za pomocą terminala. Następnie przechodzimy do uruchamiania modeli na zdalnej infrastrukturze chmurowej za pomocą platformy **RunPod**, omawiając proces wynajmu mocy obliczeniowej (GPU), wybór szablonów (np. z preinstalowaną Ollamą), różnice między trybem "On Demand" i "Spot" oraz zarządzanie kosztami. Dowiadujemy się również, jak połączyć się ze zdalną maszyną i uruchomić na niej model, a także o możliwości dostępu przez API.
+
+*   **Link do lekcji na platformie:** [Obejrzyj lekcję na SensAI Academy](https://learn.sensai.academy/next/public/lesson/257)
+*   **Notatka z lekcji:** [./Lekcja_Lokalne_Zdalne_Uruchamianie_Modeli/Notatka_z_lekcji.md](./Lekcja_Lokalne_Zdalne_Uruchamianie_Modeli/Notatka_z_lekcji.md) - Przewodnik krok po kroku po uruchamianiu modeli z Ollama lokalnie i na RunPod zdalnie.
+
+### Omawiane narzędzia:
+
+*   [Ollama](https://ollama.com/) - Uruchamianie modeli lokalnie.
+*   [RunPod](https://www.runpod.io/) - Wynajem mocy obliczeniowej (GPU) w chmurze.
+*   [Hugging Face](https://huggingface.co/) - Repozytorium modeli (wspomniane przy RunPod Serverless).
+
+---
+
+## Lekcja: Poznajemy GPTs
+
+Ta lekcja wprowadza do świata GPTs – niestandardowych wersji ChatGPT. Omawiamy, czym są, do czego służą (automatyzacja zadań, personalizacja) oraz jak przeglądać istniejące modele w GPT Store. Krok po kroku pokazujemy proces tworzenia własnego GPTs w zakładce "Configure", omawiając kluczowe elementy: nazwę, opis, instrukcje, dodawanie bazy wiedzy (Knowledge/RAG), włączanie zdolności (Web Browse, DALL-E, Code Interpreter) oraz konfigurowanie działań (Actions) do integracji z zewnętrznymi API (np. Senuto). Wyjaśniamy również opcje zapisywania i udostępniania stworzonych GPTs.
+
+*   **Link do lekcji na platformie:** [Obejrzyj lekcję na SensAI Academy](https://learn.sensai.academy/next/public/lesson/258)
+*   **Notatka z lekcji:** [./Lekcja_Poznajemy_GPTs/Notatka_z_lekcji.md](./Lekcja_Poznajemy_GPTs/Notatka_z_lekcji.md) - Przewodnik po tworzeniu i używaniu niestandardowych modeli GPTs w ChatGPT.
+
+### Omawiane narzędzia:
+
+*   [ChatGPT](https://chat.openai.com/) (Platforma do tworzenia i używania GPTs)
+*   [Senuto](https://www.senuto.com/) (Przykład integracji API) 

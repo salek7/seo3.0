@@ -49,4 +49,22 @@ W tej lekcji dokonujemy przeglądu kluczowych narzędzi AI dostępnych na rynku 
 | **Grok** | X / xAI         | Programowanie, research, kontekst X    | `Workspaces` (separacja kontekstu), `Thinking`, Integracja z X, Dostęp przez `grok.com`                                    | `Grok`                                     | [grok.com](https://grok.com/)               |
 | **Claude** | Anthropic       | Programowanie, praca projektowa        | `Artifacts` (kod live), `Projekty` (separacja + instrukcje), Integracja GitHub/Drive, Własny styl (Tone of Voice)             | `Claude 3.7 Sonnet`                        | [claude.ai](https://claude.ai/)             |
 | **Gemini** | Google          | Zastosowania ogólne, integracja Google | Dostęp do `Gemini 2.5 Pro`, `Canvas`, Integracja z GSuite (wymaga zgód admina)                                              | `Gemini 2.5 Pro Experimental`              | [gemini.google.com](https://gemini.google.com/) |
-| **Google AI Studio** | Google          | Zaawansowana konfiguracja, deweloperka | `Grounding` (Google Search), Kontrola parametrów (temperatura), Generowanie wideo (`Veo 2`), Wybór modeli (`Gemma`, `Gemini`) | `Gemma`, `Gemini 1.5/2.5 Pro`, `Veo 2`     | [aistudio.google.com](https://aistudio.google.com/) | 
+| **Google AI Studio** | Google          | Zaawansowana konfiguracja, deweloperka | `Grounding` (Google Search), Kontrola parametrów (temperatura), Generowanie wideo (`Veo 2`), Wybór modeli (`Gemma`, `Gemini`) | `Gemma`, `Gemini 1.5/2.5 Pro`, `Veo 2`     | [aistudio.google.com](https://aistudio.google.com/) |
+
+---
+
+## Lekcja: Pozyskiwanie wiedzy i Deep Research
+
+Ta lekcja skupia się na technikach zdobywania aktualnej wiedzy za pomocą narzędzi AI, ze szczególnym uwzględnieniem funkcji `Deep Research` / `Deep Search`. Omawiamy problem nieaktualnej wiedzy modeli LLM i pokazujemy, jak proste wyszukiwanie (np. w Perplexity) oraz zaawansowane funkcje głębokiego badania (w Chat GPT, Perplexity, Grok, Gemini) pozwalają budować kompleksową, opartą na wielu źródłach bazę wiedzy. Porównujemy działanie tych funkcji w różnych narzędziach i przedstawiamy praktyczny workflow wykorzystania wyników deep research do tworzenia i optymalizacji treści.
+
+*   **Link do lekcji na platformie:** [Obejrzyj lekcję na SensAI Academy](https://learn.sensai.academy/next/public/lesson/256)
+*   **Notatka z lekcji:** [./Lekcja_Pozyskiwanie_Wiedzy_Deep_Research/Notatka_z_lekcji.md](./Lekcja_Pozyskiwanie_Wiedzy_Deep_Research/Notatka_z_lekcji.md) - Szczegółowe omówienie i porównanie funkcji Deep Research/Search w popularnych narzędziach AI.
+
+### Porównanie funkcji Deep Search / Research (wg lekcji):
+
+| Narzędzie         | Nazwa Funkcji                 | Kluczowe Cechy / Proces                                     | Unikalne Dane / Możliwości          | Liczba Źródeł (Przykład "kortyzol") | Rekomendacja Prelegenta (dla Deep Research) |
+| :---------------- | :---------------------------- | :---------------------------------------------------------- | :---------------------------------- | :---------------------------------- | :------------------------------------------ |
+| **Chat GPT** | `Zbadaj głęboko`              | Query expansion, głęboki research (prawdopodobnie Bing)     | -                                   | ? (demo nie zadziałało)             | -                                           |
+| **Perplexity** | `Badania` / `Zaaw. analiza` | Widoczny proces query expansion, iteracyjne wyszukiwanie    | Dobra wizualizacja procesu          | 39                                  | Dobry punkt startowy                     |
+| **Grok** | `Deep Search`/`Deeper Search` | Query expansion, iteracyjne wyszukiwanie                    | Dostęp do danych z platformy X       | 32                                  | Dobry, zwłaszcza dla tematów z X        |
+| **Gemini** | `Deep Research`               | Najbardziej rozbudowany proces, głębokie wnioskowanie (reasoning) | Największa liczba analizowanych źródeł | >73 (proces trwał)                 | **Najlepszy** pod względem kompleksowości  | 

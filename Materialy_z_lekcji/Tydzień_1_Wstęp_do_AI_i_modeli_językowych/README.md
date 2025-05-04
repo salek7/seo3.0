@@ -10,4 +10,5 @@ Ten katalog zawiera materiały dodatkowe do lekcji z pierwszego tygodnia kursu S
 
 W tej lekcji przyglądamy się ewolucji technologii rozumienia języka naturalnego, od wczesnych koncepcji jak Word2Vec, przez Sequence-to-Sequence, aż po rewolucyjną architekturę Transformerów. Analizujemy, jak działają Transformery (tokenizacja, embedding, self-attention) na przykładzie materiałów Financial Times i omawiamy kluczowe momenty w rozwoju AI, w tym pojawienie się BERT i GPT. Lekcja zawiera również aktualizację dotyczącą gwałtownego przyspieszenia w rozwoju AI, multimodalności i przyszłości związanej z agentami AI i robotyką.
 
+*   **Link do lekcji na platformie:** [Obejrzyj lekcję na SensAI Academy](https://learn.sensai.academy/next/public/lesson/252)
 *   **Notatka z lekcji:** [./Lekcja_Historia_Modeli_Jezykowych/Notatka_z_lekcji.md](./Lekcja_Historia_Modeli_Jezykowych/Notatka_z_lekcji.md) - Szczegółowy przewodnik po historii modeli językowych, działaniu Transformerów i najnowszych trendach w AI. 

@@ -1,5 +1,7 @@
 ## Przewodnik po Lekcji: Historia Modeli Językowych 🧠 (Wersja Poprawiona)
 
+**Link do lekcji na platformie:** [Obejrzyj lekcję na SensAI Academy](https://learn.sensai.academy/next/public/lesson/252)
+
 Cześć! Ta notatka pomoże Ci zrozumieć fascynującą historię sztucznej inteligencji (AI), a zwłaszcza modeli językowych, które rewolucjonizują nasz świat. Dowiesz się, skąd wzięła się ta technologia, jak działa (na świetnym przykładzie od `Financial Times`) i dlaczego jest tak ważna. Zaczynajmy!
 
 ### Dlaczego AI i Modele Językowe? Cel Google 🎯

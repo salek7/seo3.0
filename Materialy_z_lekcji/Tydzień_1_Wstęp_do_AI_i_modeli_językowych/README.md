@@ -116,6 +116,7 @@ Ta lekcja pokazuje praktyczne sposoby uruchamiania modeli językowych Open Sourc
 
 *   **Link do lekcji na platformie:** [Obejrzyj lekcję na SensAI Academy](https://learn.sensai.academy/next/public/lesson/257)
 *   **Notatka z lekcji:** [./Lekcja_Lokalne_Zdalne_Uruchamianie_Modeli/Lokalne_Zdalne_Uruchamianie_Modeli.md](./Lekcja_Lokalne_Zdalne_Uruchamianie_Modeli/Lokalne_Zdalne_Uruchamianie_Modeli.md) - Przewodnik krok po kroku po uruchamianiu modeli z Ollama lokalnie i na RunPod zdalnie.
+*   **Transkrypcja:** [./Lekcja_Lokalne_Zdalne_Uruchamianie_Modeli/Lokalne_oraz_zdalne_uruchamianie_modeli_językowych_Transkrypcja.md](./Lekcja_Lokalne_Zdalne_Uruchamianie_Modeli/Lokalne_oraz_zdalne_uruchamianie_modeli_językowych_Transkrypcja.md)
 
 ### Omawiane narzędzia:
 
